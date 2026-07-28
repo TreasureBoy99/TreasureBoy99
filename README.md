@@ -101,8 +101,8 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
+    ├── ai-mentor-xiaoxi (—, pushed 2026-07-28) — 小溪的 AI 进化方法论 - 帮助 AI 建立自我
     ├── anonymous99-Rise (—, pushed 2026-07-28) — personal profile · anonymous99-Rise
-    ├── oh-my-hermes-memory (Python, pushed 2026-07-28) — Complete dual-store memory architecture for Hermes + OMH:…
     └── xiaoxi-blog (HTML, pushed 2026-07-28) — Xiaoxi's personal blog 成为更好的小溪而努力~
 
 [+] currently learning
@@ -121,7 +121,7 @@ followers  : 3   following : 11   repos : 176
 
 ![followers](https://img.shields.io/badge/followers-3-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-11-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-177-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-16-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-455-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-28 11:00 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-28 11:01 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
