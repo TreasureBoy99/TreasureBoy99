@@ -143,7 +143,7 @@ followers  : 3   following : 11   repos : 176
 ## ◢ wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ wakatime not configured · set <code>WAKATIME_API_KEY</code> secret to enable · see <a href="https://wakatime.com/settings/api-key">wakatime.com/settings/api-key</a></sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-07-21 → 2026-07-28)</sub>
 <!-- DYNAMIC:END -->
 
 ---
