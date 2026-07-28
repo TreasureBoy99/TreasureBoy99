@@ -186,25 +186,43 @@ def wakatime_get_summary() -> dict | None:
     Fetch last-7-days coding time from wakatime API.
     Returns dict with 'total_seconds', 'languages' (top 5), 'editors' (top 3),
     or None if WAKATIME_API_KEY not set / call fails.
+
+    Uses HTTP Basic auth (NOT Bearer — wakatime v1 rejects bearer tokens with 401).
+    Also fetches user timezone first so the summary query is in the user's
+    local tz (UTC fallback if that call fails).
     """
     if not WAKATIME_API_KEY:
         return None
+    import base64
+    basic = base64.b64encode(f"{WAKATIME_API_KEY}:".encode()).decode()
+    auth = {"Authorization": f"Basic {basic}"}
+
     try:
+        # Step 1: read user info to get the actual timezone.
+        # If the user account has no username / never had a heartbeat, this
+        # still returns 200 with the registered email + tz.
+        u = requests.get(
+            "https://wakatime.com/api/v1/users/current",
+            headers=auth, timeout=15,
+        )
+        if u.status_code != 200:
+            print(f"  ! wakatime /users/current {u.status_code}: {u.text[:200]}", file=sys.stderr)
+            return None
+        user = u.json().get("data") or {}
+        tz = user.get("timezone") or "UTC"
+        last_hb = user.get("last_heartbeat_at")
+        last_plugin = user.get("last_plugin")
+
+        # Step 2: query last-7-days summaries in user's local tz.
         end = dt.datetime.utcnow().strftime("%Y-%m-%d")
         start = (dt.datetime.utcnow() - dt.timedelta(days=7)).strftime("%Y-%m-%d")
-        # Wakatime uses HTTP Basic auth with the API key as the username
-        # (no password). Bearer token style returns 401.
-        # Also: v1 API REQUIRES timezone param (else 422).
-        import base64
-        basic = base64.b64encode(f"{WAKATIME_API_KEY}:".encode()).decode()
         r = requests.get(
             "https://wakatime.com/api/v1/users/current/summaries",
-            params={"start": start, "end": end, "timezone": "UTC"},
-            headers={"Authorization": f"Basic {basic}"},
-            timeout=15,
+            params={"start": start, "end": end, "timezone": tz},
+            headers=auth, timeout=15,
         )
         if r.status_code != 200:
-            print(f"  ! wakatime {r.status_code}: {r.text[:200]}", file=sys.stderr)
+            print(f"  ! wakatime /summaries {r.status_code}: {r.text[:200]}", file=sys.stderr)
             return None
         data = r.json()
         total_sec = 0
@@ -224,6 +242,9 @@ def wakatime_get_summary() -> dict | None:
             "languages": sorted(lang_agg.items(), key=lambda x: -x[1])[:5],
             "editors": sorted(editor_agg.items(), key=lambda x: -x[1])[:3],
             "range": f"{start} → {end}",
+            "tz": tz,
+            "last_heartbeat_at": last_hb,
+            "last_plugin": last_plugin,
         }
     except Exception as e:
         print(f"  ! wakatime failed: {e}", file=sys.stderr)
@@ -345,7 +366,7 @@ def build_feed() -> str:
 
 
 def build_wakatime() -> str:
-    """Render last-7-days coding stats. Graceful when token absent."""
+    """Render last-7-days coding stats. Graceful when token absent or new account."""
     print("→ fetching wakatime summary…")
     summary = wakatime_get_summary()
 
@@ -358,8 +379,16 @@ def build_wakatime() -> str:
         )
 
     total = fmt_duration(summary["total_seconds"])
+
+    # New account with zero heartbeats — guide the user to install the plugin
+    if not summary["languages"] and not summary["last_heartbeat_at"]:
+        return (
+            f'<sub align="center">⏳ wakatime account is empty ({summary["range"]}, tz={summary["tz"]}) · '
+            f'install the <a href="https://wakatime.com/plugins">wakatime plugin</a> for your editor to start tracking</sub>'
+        )
+
     if not summary["languages"]:
-        return f'<sub align="center">⏳ no wakatime data in last 7 days ({summary["range"]})</sub>'
+        return f'<sub align="center">⏳ no wakatime data in last 7 days ({summary["range"]}, tz={summary["tz"]})</sub>'
 
     # build inline language list with bar chars
     max_sec = max(sec for _, sec in summary["languages"]) or 1
@@ -374,7 +403,7 @@ def build_wakatime() -> str:
     return (
         f"**`{total}`** coded in last 7 days · editors: {editor_str}\n\n"
         + "\n".join(lang_lines)
-        + f"\n\n<sub>range: {summary['range']} · source: wakatime API</sub>"
+        + f"\n\n<sub>range: {summary['range']} · tz: {summary['tz']} · source: wakatime API</sub>"
     )
 
 
