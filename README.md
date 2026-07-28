@@ -101,9 +101,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── AI-Account-Toolkit — 持续迭代,主流 AI 平台覆盖扩展
-    ├── cve_monitor  — 增强 EPSS 评分 + 多渠道告警
-    └── DarkWeb-Forums-Tracker — 新增多论坛源 + 去重
+    ├── anonymous99-Rise (—, pushed 2026-07-28) — personal profile · anonymous99-Rise
+    ├── oh-my-hermes-memory (Python, pushed 2026-07-28) — Complete dual-store memory architecture for Hermes + OMH:…
+    └── xiaoxi-blog (HTML, pushed 2026-07-28) — Xiaoxi's personal blog 成为更好的小溪而努力~
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -117,7 +117,13 @@ followers  : 3   following : 11   repos : 176
 ## ◢ live_pulse
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ pulse loading... (refreshed daily by .github/workflows/profile-pulse.yml)</sub>
+<div align="center">
+
+![followers](https://img.shields.io/badge/followers-3-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-11-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-177-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-16-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-455-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-28 11:00 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+
+</div>
 <!-- DYNAMIC:END -->
 
 ---
@@ -125,7 +131,11 @@ followers  : 3   following : 11   repos : 176
 ## ◢ feed
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ feed loading...</sub>
+#### ▸ [`cve_monitor`](https://github.com/anonymous99-Rise/cve_monitor)
+
+- <code>2026-07-28</code> · [nice-select2 跨站脚本漏洞](https://www.oscs1024.com/hd/MPS-82sz-fqpl)
+- <code>2026-07-28</code> · [zip-lib 任意文件写入漏洞](https://www.oscs1024.com/hd/MPS-1mld-rcx7)
+- <code>2026-07-28</code> · [WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞](https://www.oscs1024.com/hd/MPS-ryv3-i0ea)
 <!-- DYNAMIC:END -->
 
 ---
@@ -133,7 +143,7 @@ followers  : 3   following : 11   repos : 176
 ## ◢ wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ wakatime loading...</sub>
+<sub align="center">⏳ wakatime not configured · set <code>WAKATIME_API_KEY</code> secret to enable · see <a href="https://wakatime.com/settings/api-key">wakatime.com/settings/api-key</a></sub>
 <!-- DYNAMIC:END -->
 
 ---
