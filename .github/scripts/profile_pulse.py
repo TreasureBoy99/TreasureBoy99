@@ -194,11 +194,12 @@ def wakatime_get_summary() -> dict | None:
         start = (dt.datetime.utcnow() - dt.timedelta(days=7)).strftime("%Y-%m-%d")
         # Wakatime uses HTTP Basic auth with the API key as the username
         # (no password). Bearer token style returns 401.
+        # Also: v1 API REQUIRES timezone param (else 422).
         import base64
         basic = base64.b64encode(f"{WAKATIME_API_KEY}:".encode()).decode()
         r = requests.get(
             "https://wakatime.com/api/v1/users/current/summaries",
-            params={"start": start, "end": end},
+            params={"start": start, "end": end, "timezone": "UTC"},
             headers={"Authorization": f"Basic {basic}"},
             timeout=15,
         )
