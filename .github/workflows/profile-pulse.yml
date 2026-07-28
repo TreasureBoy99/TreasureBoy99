@@ -57,7 +57,9 @@ jobs:
           if git diff --quiet README.md; then
             echo "no changes, skipping commit"
           else
+            # sync with remote in case another push (e.g. workflow file edit) landed first
+            git pull --rebase --autostash origin main || true
             git add README.md
-            git commit -m "pulse: refresh dynamic sections ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git commit -m "pulse: refresh dynamic sections ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "nothing to commit"
             git push
           fi
