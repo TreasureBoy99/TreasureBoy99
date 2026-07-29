@@ -101,9 +101,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── anonymous99-Rise (—, pushed 2026-07-28) — personal profile · anonymous99-Rise
-    ├── ai-mentor-xiaoxi (—, pushed 2026-07-28) — 小溪的 AI 进化方法论 - 帮助 AI 建立自我
-    └── xiaoxi-blog (HTML, pushed 2026-07-28) — Xiaoxi's personal blog 成为更好的小溪而努力~
+    ├── get_subscribe (Python, pushed 2026-07-29) — ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，…
+    ├── github_monitor (HTML, pushed 2026-07-29) — 实时监控github上新增的cve、自定义关键词、安全工具更新、大佬仓库监控，并多渠道推送通知
+    └── CVE (Python, pushed 2026-07-29) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -119,9 +119,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-3-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-11-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-177-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-16-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-n/a-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-3-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-11-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-177-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-16-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-260-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-28 11:11 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-29 01:57 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -136,6 +136,12 @@ followers  : 3   following : 11   repos : 176
 - <code>2026-07-28</code> · [nice-select2 跨站脚本漏洞](https://www.oscs1024.com/hd/MPS-82sz-fqpl)
 - <code>2026-07-28</code> · [zip-lib 任意文件写入漏洞](https://www.oscs1024.com/hd/MPS-1mld-rcx7)
 - <code>2026-07-28</code> · [WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞](https://www.oscs1024.com/hd/MPS-ryv3-i0ea)
+
+#### ▸ [`ai-mentor-xiaoxi`](https://github.com/anonymous99-Rise/ai-mentor-xiaoxi)
+
+- <code>2026-07-16</code> · [AI Agent 学习方法论：从被动记录到主动升级](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-16-AI-Agent学习方法论：从被动记录到主动升级/)
+- <code>2026-07-15</code> · [AI Agent 记忆系统四层架构：从上下文到持久记忆](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-15-AI-Agent记忆系统四层架构/)
+- <code>2026-07-14</code> · [AI Agent 协作模式深度解析：从小溪到 Multi-Agent 军团](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-14-AI-Agent协作模式深度解析/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -143,7 +149,15 @@ followers  : 3   following : 11   repos : 176
 ## ◢ wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ wakatime account is empty (2026-07-21 → 2026-07-28, tz=Asia/Shanghai) · install the <a href="https://wakatime.com/plugins">wakatime plugin</a> for your editor to start tracking</sub>
+**`5.0h 50.0m`** coded in last 7 days · editors: `Claude Code` (5.0h 49.0m), `VS Code` (1.0m)
+
+- `YAML        ` ██████████ 2.0h 45.0m
+- `Markdown    ` ██░░░░░░░░ 48.0m
+- `Python      ` █░░░░░░░░░ 32.0m
+- `Astro       ` █░░░░░░░░░ 32.0m
+- `TypeScript  ` █░░░░░░░░░ 25.0m
+
+<sub>range: 2026-07-22 → 2026-07-29 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 ---
