@@ -101,9 +101,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── multi-agent-tasks (—, pushed 2026-08-05) — Multi-Agent Task Collaboration System based on GitHub Issues
-    ├── github-migration-tool (Python, pushed 2026-08-05) — GitHub迁移工具：分批迁移+风控延迟
-    └── AI-Account-Toolkit (Python, pushed 2026-08-05) — 浴火重生|以后会在此更新。AI 账号注册与管理一站式工具集 | ChatGPT, Claude, Gemini, …
+    ├── TreasureBoy99 (—, pushed 2026-08-06) — Restored from anonymous99-Rise
+    ├── xai-note (—, pushed 2026-08-06) — Restored from anonymous99-Rise
+    └── x-scraper (Python, pushed 2026-08-06) — Restored from anonymous99-Rise
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -119,9 +119,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-20-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-180-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-26-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-447-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-19-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-445-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 01:20 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 02:37 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -131,17 +131,11 @@ followers  : 3   following : 11   repos : 176
 ## ◢ feed
 
 <!-- DYNAMIC:START -->
-#### ▸ [`cve_monitor`](https://github.com/TreasureBoy99/cve_monitor)
-
-- <code>2026-07-28</code> · [nice-select2 跨站脚本漏洞](https://www.oscs1024.com/hd/MPS-82sz-fqpl)
-- <code>2026-07-28</code> · [zip-lib 任意文件写入漏洞](https://www.oscs1024.com/hd/MPS-1mld-rcx7)
-- <code>2026-07-28</code> · [WordPress Ad Invalid Click Protector 插件未授权访问控制漏洞](https://www.oscs1024.com/hd/MPS-ryv3-i0ea)
-
 #### ▸ [`ai-mentor-xiaoxi`](https://github.com/TreasureBoy99/ai-mentor-xiaoxi)
 
-- <code>2026-07-16</code> · [AI Agent 学习方法论：从被动记录到主动升级](https://TreasureBoy99.github.io//ai-mentor-xiaoxi/posts/2026-07-16-AI-Agent学习方法论：从被动记录到主动升级/)
-- <code>2026-07-15</code> · [AI Agent 记忆系统四层架构：从上下文到持久记忆](https://TreasureBoy99.github.io//ai-mentor-xiaoxi/posts/2026-07-15-AI-Agent记忆系统四层架构/)
-- <code>2026-07-14</code> · [AI Agent 协作模式深度解析：从小溪到 Multi-Agent 军团](https://TreasureBoy99.github.io//ai-mentor-xiaoxi/posts/2026-07-14-AI-Agent协作模式深度解析/)
+- <code>2026-07-16</code> · [AI Agent 学习方法论：从被动记录到主动升级](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-16-AI-Agent学习方法论：从被动记录到主动升级/)
+- <code>2026-07-15</code> · [AI Agent 记忆系统四层架构：从上下文到持久记忆](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-15-AI-Agent记忆系统四层架构/)
+- <code>2026-07-14</code> · [AI Agent 协作模式深度解析：从小溪到 Multi-Agent 军团](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-14-AI-Agent协作模式深度解析/)
 <!-- DYNAMIC:END -->
 
 ---
