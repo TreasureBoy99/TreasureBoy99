@@ -109,7 +109,6 @@
 <sub>range: 2026-07-30 → 2026-08-06 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
-[![wakatime](https://wakatime.com/badge/user/TreasureBoy99.svg)](https://wakatime.com/@TreasureBoy99)
 
 ---
 
