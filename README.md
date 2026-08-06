@@ -42,7 +42,7 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── TreasureBoy99 (—, pushed 2026-08-06) — Restored from anonymous99-Rise
+    ├── TreasureBoy99 (—, pushed 2026-08-06) — no description
     ├── pdfcraft (TypeScript, pushed 2026-08-06) — Restored from anonymous99-Rise
     └── CVE-Poc_All_in_One (Python, pushed 2026-08-06) — Restored from anonymous99-Rise
 
@@ -62,7 +62,7 @@
 
 ![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-19-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-447-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 03:31 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 03:41 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -81,6 +81,24 @@
 - <code>2026-08-06</code> · [cve-2026-poc-collection exploit](https://sploitus.com/exploit?id=8621F4E6-19EA-5FA2-9C4E-6FCFE544B313&utm_source=rss&utm_medium=rss)
 - <code>2026-08-06</code> · [feedparser-redos-poc exploit](https://sploitus.com/exploit?id=F6A26172-5843-54F7-9264-018528F37900&utm_source=rss&utm_medium=rss)
 - <code>2026-08-06</code> · [ncentral-compromise-ioc-triage exploit](https://sploitus.com/exploit?id=9E5544BE-993D-53D1-A892-5DD0D18C0EBB&utm_source=rss&utm_medium=rss)
+
+#### ▸ [steipete](https://steipete.me/rss.xml)
+
+- <code>2026-02-15</code> · [OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)
+- <code>2025-12-28</code> · [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed/)
+- <code>2025-12-18</code> · [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker/)
+
+#### ▸ [cryptoeng](https://blog.cryptographyengineering.com/feed/)
+
+- <code>2026-07-29</code> · [Some thoughts about Anthropic’s new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
+- <code>2026-06-09</code> · [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
+- <code>2026-05-29</code> · [Let’s talk about encrypted reasoning](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/)
+
+#### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
+
+- <code>2026-08-05</code> · [A few notes on AWS Nitro Enclaves: KMS integration](https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/)
+- <code>2026-07-30</code> · [Building secure Uniswap v4 hooks](https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/)
+- <code>2026-07-28</code> · [How we use /goal to find bugs in Patch the Planet](https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet/)
 <!-- DYNAMIC:END -->
 
 </div>
