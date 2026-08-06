@@ -37,15 +37,17 @@
 ## operations
 
 <!-- DYNAMIC:START -->
-| ▓▓▓ METRIC | ▓▓▓ VALUE |
-|:---|:---:|
-| 🏴 REPOS | 170 |
-| ⭐ STARS | ~0 |
-| 🍴 FORKS | growing |
-| 👀 WATCHERS | 1 |
-| ❝ COMMITS | 1337+ |
-| 📅 UPTIME | restored |
-| 🌐 STATUS | **ACTIVE** |
+```text
+[+] recent focus
+    ├── TreasureBoy99 (—, pushed 2026-08-06) — Restored from anonymous99-Rise
+    ├── pdfcraft (TypeScript, pushed 2026-08-06) — Restored from anonymous99-Rise
+    └── CVE-Poc_All_in_One (Python, pushed 2026-08-06) — Restored from anonymous99-Rise
+
+[+] currently learning
+    ├── langgraph deep dive — durable execution semantics
+    ├── mitre d3fend mappings for blue-side tooling
+    └── riscv assembly for embedded payload research
+```
 <!-- DYNAMIC:END -->
 
 ---
@@ -53,7 +55,13 @@
 ## live_pulse
 
 <!-- DYNAMIC:START -->
-<!-- GitHub stats + CVE count injected by profile_pulse.py -->
+<div align="center">
+
+![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-19-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-445-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 03:04 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+
+</div>
 <!-- DYNAMIC:END -->
 
 ---
@@ -63,7 +71,13 @@
 <div align="center">
 
 <!-- DYNAMIC:START -->
-*feed loading…*
+#### ▸ Sploitus (exploits & CVEs)
+
+- <code>2026-08-06</code> · [exploitarium](https://sploitus.com/exploit?id=420DB1AB-C00E-514C-88FA-F4D1516F2B8F&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [cve-2026-poc-collection exploit](https://sploitus.com/exploit?id=8621F4E6-19EA-5FA2-9C4E-6FCFE544B313&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [feedparser-redos-poc exploit](https://sploitus.com/exploit?id=F6A26172-5843-54F7-9264-018528F37900&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [ncentral-compromise-ioc-triage exploit](https://sploitus.com/exploit?id=9E5544BE-993D-53D1-A892-5DD0D18C0EBB&utm_source=rss&utm_medium=rss)
+- <code>2026-08-05</code> · [vulnerable-by-design-rmf-hardening exploit](https://sploitus.com/exploit?id=05046475-0623-5C7F-9B28-96A2530B725C&utm_source=rss&utm_medium=rss)
 <!-- DYNAMIC:END -->
 
 </div>
@@ -73,16 +87,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-```
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
-  Language    Hours   %  
-  ──────────────────────────
-  Python      --      --%  
-  Shell       --      --%  
-  Other       --      --%  
-  ──────────────────────────
-  Total       --h --m
-```
+<sub align="center">⏳ wakatime account is empty (2026-07-30 → 2026-08-06, tz=Asia/Shanghai) · install the <a href="https://wakatime.com/plugins">wakatime plugin</a> for your editor to start tracking</sub>
 <!-- DYNAMIC:END -->
 
 [![wakatime](https://wakatime.com/badge/user/TreasureBoy99.svg)](https://wakatime.com/@TreasureBoy99)
