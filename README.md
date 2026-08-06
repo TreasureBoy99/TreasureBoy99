@@ -1,24 +1,35 @@
+<!-- profile-pulse: auto-generated · DO NOT EDIT BETWEEN MARKERS -->
 <div align="center">
 
 ```text
-    _   _   _   _   _   _     _   _   _   _   _     _     ___  ____
-   / \ | |_| \ | | \ | |   / \ | | | | | | | |   | |   / _ \/ ___|
-  / _ \| __|  \| |  \| |  / _ \| |_| | | | | |_  | |  | | | \___ \
- / ___ \ |_| |\  | |\  | / ___ \  _  | |_| |  _| | |__| |_| |___) |
-/_/   \_\__|_| \_|_| \_|/_/   \_\_| |_|\___/|_|   |_____\___/|____/
+██╗░░██╗███████╗███╗░░░███╗██╗░██████╗░██╗░░██╗████████╗
+██║░░██║██╔════╝████╗░████║██║██╔════╝░██║░░██║╚══██╔══╝
+███████║█████╗░░██╔████╔██║██║██║░░██╗░███████║░░░██║░░░
+██╔══██║██╔══╝░░██║╚██╔╝██║██║██║░░╚██╗██╔══██║░░░██║░░░
+██║░░██║███████╗██║░╚═╝░██║██║╚██████╔╝██║░░██║░░░██║░░░
+╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝╚═╝░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░
 ```
 
-# 🎯 浴火重生 | Rise from the Ashes
+```text
+╔══════════════════════════════════════════════════════╗
+║  T̸̡̛B̸̡̛4̸̡̛9̸̡̛  ·  t̷͓̫h̷͓̫r̷͓̫e̷͓̫a̷͓̫t̷͓̫ ̷͓̫i̷͓̫n̷͓̫t̷͓̫e̷͓̫l̷͓̫ ̷͓̫o̷͓̫p̷͓̫e̷͓̫r̷͓̫a̷͓̫t̷͓̫o̷͓̫r̷͓̫
+║  ─────────────────────────────────────────────────
+║  threat_intel  ·  ai_agent_forge  ·  python_native
+╚══════════════════════════════════════════════════════╝
+```
 
-**`// threat_intel_operator` · `// ai_agent_forge` · `// python_native`**
+**`// threat_intel_operator`  ·  `// ai_agent_forge`  ·  `// python_native`**
 
 <sub>building agents that hunt · shipping tools for defenders · learning in public</sub>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=D93B3B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Python+%E2%9A%A1+AI+Agents+%F0%9F%A4%96;Threat+Intel+%F0%9F%9B%A1%EF%B8%8F+CVE+Hunter+%F0%9F%94%A5;Full-stack+%F0%9F%9A%80+Rising+daily+%F0%9F%91%8F;%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F+%F0%9F%8E%AF+%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=D93B3B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Python+%E2%9A%A1+AI+Agents+%F0%9F%A4%96;Threat+Intel+%F0%9F%9B%A1%EF%B8%8F+CVE+Hunter+%F0%9F%94%A5;Full-stack+%F0%9F%9A%80+Rising+daily+%F0%9F%91%8F;%E4%BB%A5%E5%89%8D%E7%9A%84%E6%89%93%E9%80%A0%E8%80%85+%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%80%85" alt="Typing SVG" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TreasureBoy99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/github/followers/TreasureBoy99?style=for-the-badge&logo=github&color=8A2BE2" alt="followers">
+<img src="https://img.shields.io/github/stars/TreasureBoy99?style=for-the-badge&logo=github&color=DC143C" alt="stars">
+<img src="https://img.shields.io/github/repos/TreasureBoy99?style=for-the-badge&logo=github&color=3178C6" alt="repos">
 
 </div>
 
@@ -28,71 +39,26 @@
 
 ```yaml
 handle     : TreasureBoy99
-bio        : 浴火重生！从零开始！
+bio        : 威胁情报 / AI Agent / 渗透测试
 motto      : ship the agent you'd trust at 3am
-home_tz    : flexible // UTC synced
-followers  : 3   following : 11   repos : 176
+focus      : CVE hunting · red-team tooling · AI agents
+home_tz    : Asia/Shanghai (UTC+8)
 ```
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-D93B3B?style=for-the-badge&logo=hackthebox&logoColor=white)
-![OffSec](https://img.shields.io/badge/OffSec-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6B35?style=for-the-badge&logo=target&logoColor=white)
 ![CVE Hunter](https://img.shields.io/badge/CVE_Hunter-DC143C?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+![OffSec](https://img.shields.io/badge/OffSec-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
-
----
-
-## ◢ priority_targets
-
-> my pinned repos — what i actually ship
-
-| | repo | what it does | lang |
-|---|---|---|---|
-| 🎯 | **[AI-Account-Toolkit](https://github.com/TreasureBoy99/AI-Account-Toolkit)** | 浴火重生 · AI 账号注册与管理一站式工具集 — ChatGPT / Claude / Gemini / Codex / Cursor / Grok 批量注册、Token 管理、临时邮箱 | `Python` ⭐8 |
-| 🛰️ | **[poc-Collector](https://github.com/TreasureBoy99/poc-Collector)** | poc/exp 收集 & 多渠道推送 | `Python` ⭐1 |
-| 🔥 | **[cve_monitor](https://github.com/TreasureBoy99/cve_monitor)** | 实时监控新增 CVE,自定义关键字 + 安全工具更新,多渠道推送 | `Python` |
-| 🕸️ | **[DarkWeb-Forums-Tracker](https://github.com/TreasureBoy99/DarkWeb-Forums-Tracker)** | 暗网论坛/帖子追踪器 | `HTML` |
-| 📡 | **[github-cve-monitor](https://github.com/TreasureBoy99/github-cve-monitor)** | fork · 监控 GitHub 上新增 CVE / 自定义关键字 / 安全工具,多渠道推送 | `Python` |
-| 🛰️ | **[github_monitor](https://github.com/TreasureBoy99/github_monitor)** | fork · CVE / 关键词 / 安全工具 / 大佬仓库全维度监控,多渠道推送 | `HTML` |
-
----
-
-## ◢ arsenal
-
-### ▸ ai agents & llm tooling
-- 🧠 **[oh-my-hermes-memory](https://github.com/TreasureBoy99/oh-my-hermes-memory)** — 双层 memory 架构(L1 索引 / L0 OMH 项目存储 / .env 凭据),review-first 捕获流,AI agent 持久化记忆的事实标准 ⭐1
-- 🎯 **[AI-Account-Toolkit](https://github.com/TreasureBoy99/AI-Account-Toolkit)** — AI 账号注册 & Token 管理工具集,覆盖主流平台
-- 📰 **[ai-daily-newsletter](https://github.com/TreasureBoy99/ai-daily-newsletter)** — 聚合 25+ AI 信息源,每日生成 AI 新闻简报
-- 🧘 **[ai-mentor-xiaoxi](https://github.com/TreasureBoy99/ai-mentor-xiaoxi)** — 小溪的 AI 进化方法论 · 帮助 AI 建立自我
-
-### ▸ threat intel & cve hunting
-- 🔥 **[cve_monitor](https://github.com/TreasureBoy99/cve_monitor)** — 自研实时 CVE 监控 + 推送
-- 🛰️ **[github-cve-monitor](https://github.com/TreasureBoy99/github-cve-monitor)** — fork · GitHub 维度 CVE / 工具监控
-- 🛰️ **[github_monitor](https://github.com/TreasureBoy99/github_monitor)** — fork · 多维监控 + 大佬仓库追踪
-- 🧲 **[ioc-harvest](https://github.com/TreasureBoy99/ioc-harvest)** — scraper/parser for public TI feeds
-- 🧭 **[geoip-attackmap](https://github.com/TreasureBoy99/geoip-attackmap)** — lightweight attack-map renderer
-- 🪪 **[cve-feed](https://github.com/TreasureBoy99/cve-feed)** — curated CVE/KEV mirror with EPSS scoring
-
-### ▸ offensive sec & exploitation
-- 🛰️ **[poc-Collector](https://github.com/TreasureBoy99/poc-Collector)** — poc/exp 收集 & 推送
-- 🕸️ **[DarkWeb-Forums-Tracker](https://github.com/TreasureBoy99/DarkWeb-Forums-Tracker)** — 暗网论坛监控
-- 🐚 **[revsh-go](https://github.com/TreasureBoy99/revsh-go)** — tiny tls-encrypted reverse shell (for CTFs)
-- 🔎 **[bounty-helper](https://github.com/TreasureBoy99/bounty-helper)** — recon automation wrapper
-- 🪤 **[canary-svc](https://github.com/TreasureBoy99/canary-svc)** — high-interaction canary service for blue teams
-
-### ▸ web & writing
-- 🌊 **[xiaoxi-blog](https://github.com/TreasureBoy99/xiaoxi-blog)** — 个人博客 · 成为更好的小溪而努力~
 
 ---
 
@@ -101,14 +67,6 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── TreasureBoy99 (—, pushed 2026-08-06) — Restored from anonymous99-Rise
-    ├── xai-note (—, pushed 2026-08-06) — Restored from anonymous99-Rise
-    └── x-scraper (Python, pushed 2026-08-06) — Restored from anonymous99-Rise
-
-[+] currently learning
-    ├── langgraph deep dive — durable execution semantics
-    ├── mitre d3fend mappings for blue-side tooling
-    └── riscv assembly for embedded payload research
 ```
 <!-- DYNAMIC:END -->
 
@@ -119,23 +77,17 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-19-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-445-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
-
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 02:40 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>N/A</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
 
 ---
 
-## ◢ feed
+## ◢ intel feed
 
 <!-- DYNAMIC:START -->
-#### ▸ [`ai-mentor-xiaoxi`](https://github.com/TreasureBoy99/ai-mentor-xiaoxi)
-
-- <code>2026-07-16</code> · [AI Agent 学习方法论：从被动记录到主动升级](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-16-AI-Agent学习方法论：从被动记录到主动升级/)
-- <code>2026-07-15</code> · [AI Agent 记忆系统四层架构：从上下文到持久记忆](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-15-AI-Agent记忆系统四层架构/)
-- <code>2026-07-14</code> · [AI Agent 协作模式深度解析：从小溪到 Multi-Agent 军团](https://anonymous99-rise.github.io//ai-mentor-xiaoxi/posts/2026-07-14-AI-Agent协作模式深度解析/)
+<sub align="center">⏳ feed unavailable · try again next run</sub>
 <!-- DYNAMIC:END -->
 
 ---
@@ -143,62 +95,75 @@ followers  : 3   following : 11   repos : 176
 ## ◢ wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ wakatime account is empty (2026-07-30 → 2026-08-06, tz=Asia/Shanghai) · install the <a href="https://wakatime.com/plugins">wakatime plugin</a> for your editor to start tracking</sub>
+<sub align="center">⏳ wakatime not configured · set <code>WAKATIME_API_KEY</code> secret to enable · see <a href="https://wakatime.com/settings/api-key">wakatime.com/settings/api-key</a></sub>
 <!-- DYNAMIC:END -->
 
 ---
 
+## ◢ arsenal
 
-## ◢ signal
+### ▸ threat intel & CVE hunting
 
-<div align="center">
+| | repo | what it does | lang |
+|---|---|---|---|
+| 🔥 | **[cve_monitor](https://github.com/TreasureBoy99/cve_monitor)** | 自研实时 CVE 监控 + 多渠道推送 | `Python` |
+| 🛰️ | **[github-cve-monitor](https://github.com/TreasureBoy99/github-cve-monitor)** | GitHub CVE / 关键词 / 安全工具监控 | `Python` |
+| 🛰️ | **[github_monitor](https://github.com/TreasureBoy99/github_monitor)** | fork · 多维监控 + 大佬仓库追踪 | `HTML` |
+| 📡 | **[vulnDb-Notifier](https://github.com/TreasureBoy99/vulnDb-Notifier)** | 漏洞库更新监控 + 实时推送 | `Go` |
 
-<img src="https://streak-stats.demolab.com?user=TreasureBoy99&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=TreasureBoy99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreasureBoy99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+### ▸ red team & offensive tooling
 
-</div>
+| | repo | what it does | lang |
+|---|---|---|---|
+| 💀 | **[poc-Collector](https://github.com/TreasureBoy99/poc-Collector)** | poc/exp 收集 & 多渠道推送 | `Python` |
+| 💀 | **[CVE-Poc_All_in_One](https://github.com/TreasureBoy99/CVE-Poc_All_in_One)** | 漏洞 Poc 集合库 | `Python` |
+| 🕸️ | **[DarkWeb-Forums-Tracker](https://github.com/TreasureBoy99/DarkWeb-Forums-Tracker)** | 暗网论坛/帖子追踪器 | `HTML` |
+| 🛡️ | **[VulnWatchDog](https://github.com/TreasureBoy99/VulnWatchDog)** | 漏洞爬虫监控 | `Python` |
 
----
+### ▸ AI agents & LLM tooling
 
-## ◢ philosophy
+| | repo | what it does | lang |
+|---|---|---|---|
+| 🤖 | **[AI-Account-Toolkit](https://github.com/TreasureBoy99/AI-Account-Toolkit)** | AI 账号注册 & Token 管理工具集 | `Python` |
+| 🧠 | **[multi-Cybersecurity](https://github.com/TreasureBoy99/multi-Cybersecurity)** | 39分类安全Agent框架 · MITRE ATT&CK标准化 | `Python` |
+| 📰 | **[ai-daily-newsletter](https://github.com/TreasureBoy99/ai-daily-newsletter)** | 聚合 25+ AI 信息源，每日生成 AI 新闻简报 | `Python` |
+| 🧠 | **[oh-my-hermes-memory](https://github.com/TreasureBoy99/oh-my-hermes-memory)** | AI Agent 双层 memory 架构 | `Python` |
 
-> *“ship the agent that you would trust to defend your own infra at 3am.”*
->
-> i build AI agents the way i'd build any other critical tool: red-team them first,
-> instrument everything, assume the prompt is hostile, and never trust a single
-> reasoning trace. python-first, because readability is a security feature.
+### ▸ utilities & automation
 
-<details>
-<summary>◢ manifest</summary>
-
-- agents must be **replayable** — every decision trace lives on disk
-- ti must be **structured** — if it isn't STIX-shaped, it isn't intel
-- tools must be **sandboxed** — agents never get the host they run on
-- code must be **read by humans first** — clever is a smell
-- write in public · ship in small cuts · disclose responsibly
-</details>
-
-<details>
-<summary>◢ ttps (the fun version)</summary>
-
-- treat prompts like untrusted input — they are
-- prefer boring infra (postgres, redis, sqlite) over magical stacks
-- red-team your own agent before someone else does
-- CVE-hunting is just controlled chaos with a CVE id at the end
-- 30+ CTF rooms · active in osint / forensics / web
-</details>
+| | repo | what it does | lang |
+|---|---|---|---|
+| 📡 | **[RSSHub](https://github.com/TreasureBoy99/RSSHub)** | 万物皆可 RSS | `Node.js` |
+| 📖 | **[linuxdo-reader](https://github.com/TreasureBoy99/LinuxDoReader)** | LinuxDo 阅读器 | `Python` |
+| 🔧 | **[linuxmirrors](https://github.com/TreasureBoy99/LinuxMirrors)** | Linux 系统换源工具 | `Python` |
+| 🤖 | **[TiebaSignIn-1](https://github.com/TreasureBoy99/TiebaSignIn-1)** | 百度贴吧自动签到 | `Python` |
 
 ---
 
-## ◢ connect
+## ◢ stack
 
-<div align="center">
+```text
+Languages   ████████████░░░░  Python      (primary)
+Infra       ████████░░░░░░░  Docker / K8s
+Sec         ████████████████  Threat Intel / CVE / Red Team
+AI          ██████████░░░░░░  LLMs / Agents / RAG
+Automation  ████████████████  CI/CD · GitHub Actions
+```
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VqjIX47lUK5jgwk)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreasureBoy99)
-<!-- add more as you grow: blog, mastodon, bluesky, linkedin -->
+---
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TreasureBoy99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreasureBoy99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<sub align="center">⚡ this profile is a living doc · last refreshed when the last agent run completed cleanly</sub>
+---
+
+<p align="center">
+  <a href="https://github.com/TreasureBoy99">
+    <img src="https://img.shields.io/badge/GitHub-TreasureBoy99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/TreasureBoy99/TreasureBoy99">
+    <img src="https://img.shields.io/badge/Profile-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Repo" />
+  </a>
+</p>
