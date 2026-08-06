@@ -46,7 +46,7 @@
 
 ![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-21-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-447-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 03:58 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 04:02 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -90,7 +90,13 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ wakatime account is empty (2026-07-30 → 2026-08-06, tz=Asia/Shanghai) · install the <a href="https://wakatime.com/plugins">wakatime plugin</a> for your editor to start tracking</sub>
+**`13.0m`** coded in last 7 days · editors: `VS Code` (7.0m), `Claude Code` (6.0m)
+
+- `Other       ` ██████████ 7.0m
+- `Markdown    ` ████░░░░░░ 3.0m
+- `Python      ` ███░░░░░░░ 2.0m
+
+<sub>range: 2026-07-30 → 2026-08-06 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 [![wakatime](https://wakatime.com/badge/user/TreasureBoy99.svg)](https://wakatime.com/@TreasureBoy99)
