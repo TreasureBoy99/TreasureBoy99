@@ -101,9 +101,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── get_subscribe (Python, pushed 2026-07-31) — ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，…
-    ├── github_monitor (HTML, pushed 2026-07-31) — 实时监控github上新增的cve、自定义关键词、安全工具更新、大佬仓库监控，并多渠道推送通知
-    └── CVE (Python, pushed 2026-07-31) — no description
+    ├── multi-agent-tasks (—, pushed 2026-08-05) — Multi-Agent Task Collaboration System based on GitHub Issues
+    ├── github-migration-tool (Python, pushed 2026-08-05) — GitHub迁移工具：分批迁移+风控延迟
+    └── AI-Account-Toolkit (Python, pushed 2026-08-05) — 浴火重生|以后会在此更新。AI 账号注册与管理一站式工具集 | ChatGPT, Claude, Gemini, …
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -119,9 +119,9 @@ followers  : 3   following : 11   repos : 176
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-3-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-14-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-179-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-18-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-297-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-20-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-180-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-26-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-447-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-07-31 02:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 01:20 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -149,15 +149,7 @@ followers  : 3   following : 11   repos : 176
 ## ◢ wakatime
 
 <!-- DYNAMIC:START -->
-**`5.0h 21.0m`** coded in last 7 days · editors: `Claude Code` (4.0h 43.0m), `VS Code` (37.0m)
-
-- `YAML        ` ██████████ 1.0h 59.0m
-- `Markdown    ` █████░░░░░ 1.0h 6.0m
-- `Astro       ` ██░░░░░░░░ 32.0m
-- `Python      ` ██░░░░░░░░ 31.0m
-- `TypeScript  ` ██░░░░░░░░ 25.0m
-
-<sub>range: 2026-07-24 → 2026-07-31 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub align="center">⏳ wakatime not configured · set <code>WAKATIME_API_KEY</code> secret to enable · see <a href="https://wakatime.com/settings/api-key">wakatime.com/settings/api-key</a></sub>
 <!-- DYNAMIC:END -->
 
 ---
