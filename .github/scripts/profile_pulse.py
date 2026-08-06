@@ -180,16 +180,21 @@ def fetch_sploitus(url: str, max_items: int) -> list[dict]:
 # LinuxDo (uses curl to bypass Cloudflare TLS fingerprint)
 # ---------------------------------------------------------------------------
 def fetch_linuxdo(url: str, max_items: int) -> list[dict]:
-    """Fetch hot posts from LinuxDo via RSS, using curl to bypass Cloudflare."""
+    """Fetch hot posts from LinuxDo via RSS, using requests."""
     results = []
-    curl_headers = [
-        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "-H", "Accept: application/atom+xml, application/rss+xml, application/xml, text/xml, */*",
-        "-H", "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8",
-    ]
     try:
-        xml = _curl_fetch(url, curl_headers)
-        root = ET.fromstring(xml)
+        r = requests.get(
+            url,
+            timeout=15,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                "Accept-Encoding": "gzip, deflate, br",
+            },
+        )
+        r.raise_for_status()
+        root = ET.fromstring(r.text.encode(r.encoding) if r.encoding else r.text)
         for item in root.findall(".//item"):
             title = (item.findtext("title") or "").strip()
             link = (item.findtext("link") or "#").strip()
@@ -207,26 +212,33 @@ def fetch_linuxdo(url: str, max_items: int) -> list[dict]:
 # Reddit (uses curl to bypass Reddit's UA restrictions)
 # ---------------------------------------------------------------------------
 def fetch_reddit(subreddit: str, max_items: int) -> list[dict]:
-    """Fetch hot posts from Reddit via RSS, using curl for UA compatibility."""
+    """Fetch hot posts from Reddit via JSON API (more reliable than RSS)."""
     results = []
-    curl_headers = [
-        "-H", "User-Agent: Mozilla/5.0 (compatible; ai-daily-newsletter/1.0)",
-        "-H", "Accept: application/atom+xml, application/rss+xml, */*",
-    ]
     try:
-        url = f"https://www.reddit.com/r/{subreddit}/hot/.rss?limit={max_items}"
-        xml = _curl_fetch(url, curl_headers)
-        root = ET.fromstring(xml)
-        for item in root.findall(".//item"):
-            title = (item.findtext("title") or "").strip()
-            link = (item.findtext("link") or "#").strip()
-            pub = item.findtext("pubDate") or ""
-            # skip stickied posts
-            category = item.findtext("category") or ""
-            if "stickied" in category.lower():
+        url = f"https://www.reddit.com/r/{subreddit}/hot/.json?limit={max_items}"
+        r = requests.get(
+            url,
+            timeout=15,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Accept": "application/json",
+                "Accept-Language": "en-US,en;q=0.9",
+            },
+        )
+        r.raise_for_status()
+        data = r.json()
+        children = data.get("data", {}).get("children", [])
+        for child in children:
+            post = child.get("data", {})
+            title = post.get("title", "").strip()
+            link = f"https://reddit.com{post.get('permalink', '#')}"
+            created = post.get("created_utc", 0)
+            updated = dt.datetime.fromtimestamp(created, tz=dt.timezone.utc).strftime("%m-%d") if created else "—"
+            # skip stickied
+            if post.get("stickied"):
                 continue
             if title:
-                results.append({"title": title, "link": link, "updated": _parse_pub_date(pub)})
+                results.append({"title": title, "link": link, "updated": updated})
             if len(results) >= max_items:
                 break
     except Exception as e:
