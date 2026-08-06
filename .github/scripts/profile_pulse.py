@@ -387,6 +387,11 @@ def build_feed() -> str:
         else:
             items = fetch_rss(url, max_items)
 
+        if items:
+            print(f"  ✓ {label}: {len(items)} items")
+        else:
+            print(f"  ! {label}: no items (source may be blocked)")
+
         if not items:
             continue
 
