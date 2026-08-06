@@ -50,13 +50,14 @@ WAKATIME_USER = os.environ.get("WAKATIME_USER", "TreasureBoy99")
 # Feed config: each entry is a dict with keys:
 #   type  — "sploitus", "linuxdo", or "reddit"
 #   label — display name for the section header
-#   url   — RSS URL (for sploitus/linuxdo) or subreddit name (for reddit)
-#   max   — max items to show
+#   type  — "sploitus", "rss"
+#   url   — RSS URL
+#   label — display name for the subsection header
 FEEDS = [
-    {"type": "sploitus",     "label": "sploitus",       "url": "https://sploitus.com/rss",                "max": 5},
-    {"type": "linuxdo",      "label": "linuxdo",        "url": "https://linux.do/top.rss?period=daily",   "max": 5},
-    {"type": "reddit",       "label": "hacking",        "url": "netsec",                                  "max": 3},
-    {"type": "reddit",       "label": "cybersecurity",  "url": "cybersecurity",                           "max": 3},
+    {"type": "sploitus",              "label": "sploitus",  "url": "https://sploitus.com/rss",                          "max": 5},
+    {"type": "rss",                   "label": "steipete",  "url": "https://steipete.me/rss.xml",                       "max": 3},
+    {"type": "rss",                   "label": "cryptoeng", "url": "https://blog.cryptographyengineering.com/feed/",   "max": 3},
+    {"type": "rss",                   "label": "trailofbits","url": "https://blog.trailofbits.com/feed/",             "max": 3},
 ]
 
 # ---------- helpers -------------------------------------------------------
@@ -177,73 +178,41 @@ def fetch_sploitus(url: str, max_items: int) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# LinuxDo (uses curl to bypass Cloudflare TLS fingerprint)
+# RSS fetcher — handles any generic RSS/Atom feed
 # ---------------------------------------------------------------------------
-def fetch_linuxdo(url: str, max_items: int) -> list[dict]:
-    """Fetch hot posts from LinuxDo via RSS, using requests."""
-    results = []
+def fetch_rss(url: str, max_items: int) -> list[dict]:
+    """Fetch and parse any RSS/Atom feed. Returns list of {title, link, updated}."""
     try:
         r = requests.get(
             url,
             timeout=15,
             headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Accept": "application/rss+xml, application/xml, text/xml, */*",
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                "Accept-Encoding": "gzip, deflate, br",
-            },
-        )
-        r.raise_for_status()
-        root = ET.fromstring(r.text.encode(r.encoding) if r.encoding else r.text)
-        for item in root.findall(".//item"):
-            title = (item.findtext("title") or "").strip()
-            link = (item.findtext("link") or "#").strip()
-            pub = item.findtext("pubDate") or ""
-            if title:
-                results.append({"title": title, "link": link, "updated": _parse_pub_date(pub)})
-            if len(results) >= max_items:
-                break
-    except Exception as e:
-        print(f"  ! linuxdo fetch failed: {e}", file=sys.stderr)
-    return results
-
-
-# ---------------------------------------------------------------------------
-# Reddit (uses curl to bypass Reddit's UA restrictions)
-# ---------------------------------------------------------------------------
-def fetch_reddit(subreddit: str, max_items: int) -> list[dict]:
-    """Fetch hot posts from Reddit via JSON API (more reliable than RSS)."""
-    results = []
-    try:
-        url = f"https://www.reddit.com/r/{subreddit}/hot/.json?limit={max_items}"
-        r = requests.get(
-            url,
-            timeout=15,
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Accept": "application/json",
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
                 "Accept-Language": "en-US,en;q=0.9",
             },
         )
         r.raise_for_status()
-        data = r.json()
-        children = data.get("data", {}).get("children", [])
-        for child in children:
-            post = child.get("data", {})
-            title = post.get("title", "").strip()
-            link = f"https://reddit.com{post.get('permalink', '#')}"
-            created = post.get("created_utc", 0)
-            updated = dt.datetime.fromtimestamp(created, tz=dt.timezone.utc).strftime("%m-%d") if created else "—"
-            # skip stickied
-            if post.get("stickied"):
-                continue
+        root = ET.fromstring(r.text)
+        results = []
+        for item in root.findall(".//item") + root.findall(".//entry"):
+            title = (item.findtext("title") or "").strip()
+            # link: RSS uses <link>, Atom uses <link href="...">
+            link_elem = item.find("link")
+            if link_elem is not None:
+                link = link_elem.text or link_elem.get("href") or "#"
+            else:
+                link = item.findtext("link") or "#"
+            link = link.strip()
+            pub = item.findtext("pubDate") or item.findtext("published") or item.findtext("updated") or ""
             if title:
-                results.append({"title": title, "link": link, "updated": updated})
+                results.append({"title": title, "link": link, "updated": _parse_pub_date(pub)})
             if len(results) >= max_items:
                 break
+        return results
     except Exception as e:
-        print(f"  ! reddit r/{subreddit} fetch failed: {e}", file=sys.stderr)
-    return results
+        print(f"  ! rss fetch failed ({url}): {e}", file=sys.stderr)
+        return []
 
 
 def wakatime_get_summary() -> dict | None:
@@ -415,12 +384,8 @@ def build_feed() -> str:
 
         if feed_type == "sploitus":
             items = fetch_sploitus(url, max_items)
-        elif feed_type == "linuxdo":
-            items = fetch_linuxdo(url, max_items)
-        elif feed_type == "reddit":
-            items = fetch_reddit(url, max_items)
         else:
-            continue
+            items = fetch_rss(url, max_items)
 
         if not items:
             continue
@@ -434,10 +399,8 @@ def build_feed() -> str:
 
         if feed_type == "sploitus":
             sections.append(f"#### ▸ Sploitus (exploits & CVEs)\n\n" + "\n".join(rows))
-        elif feed_type == "linuxdo":
-            sections.append(f"#### ▸ LinuxDo\n\n" + "\n".join(rows))
-        elif feed_type == "reddit":
-            sections.append(f"#### ▸ [`r/{label}`](https://reddit.com/r/{label})\n\n" + "\n".join(rows))
+        else:
+            sections.append(f"#### ▸ [{label}]({url})\n\n" + "\n".join(rows))
 
     if not sections:
         # All three feeds (Sploitus/linuxdo/reddit) failed. Render a graceful
