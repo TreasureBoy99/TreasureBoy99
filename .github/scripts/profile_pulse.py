@@ -440,7 +440,17 @@ def build_feed() -> str:
             sections.append(f"#### ▸ [`r/{label}`](https://reddit.com/r/{label})\n\n" + "\n".join(rows))
 
     if not sections:
-        return _fallback_block("feed", "all feeds unavailable", wrap_in_sub=True)
+        # All three feeds (Sploitus/linuxdo/reddit) failed. Render a graceful
+        # fallback that still gives useful links the human can click.
+        return (
+            "<sub align=\"center\">\n"
+            "⏳ feeds blocked from GitHub Actions runner · "
+            "[Sploitus](https://sploitus.com) · "
+            "[LinuxDo](https://linux.do) · "
+            "[r/netsec](https://reddit.com/r/netsec) · "
+            "[r/cybersecurity](https://reddit.com/r/cybersecurity)\n"
+            "</sub>"
+        )
 
     return "\n\n".join(sections)
 
