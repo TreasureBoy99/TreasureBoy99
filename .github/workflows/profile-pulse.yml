@@ -44,10 +44,10 @@ jobs:
       - name: run pulse script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: anonymous99-Rise
+          GH_USER: TreasureBoy99
           README_PATH: README.md
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_USER: anonymous99-Rise
+          WAKATIME_USER: TreasureBoy99
         run: python .github/scripts/profile_pulse.py
 
       - name: commit if changed

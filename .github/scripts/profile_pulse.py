@@ -31,7 +31,7 @@ import requests
 
 # ---------- config --------------------------------------------------------
 
-GH_USER = os.environ.get("GH_USER", "anonymous99-Rise")
+GH_USER = os.environ.get("GH_USER", "TreasureBoy99")
 GH_TOKEN = os.environ.get("GH_TOKEN", "")
 README_PATH = Path(os.environ.get("README_PATH", "README.md"))
 GITHUB_API = "https://api.github.com"
@@ -40,14 +40,14 @@ NVD_API = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 # wakatime: optional. If WAKATIME_API_KEY is set, fetch & render real stats.
 # If absent, section renders a friendly "not configured" hint instead of failing.
 WAKATIME_API_KEY = os.environ.get("WAKATIME_API_KEY", "")
-WAKATIME_USER = os.environ.get("WAKATIME_USER", "anonymous99-Rise")
+WAKATIME_USER = os.environ.get("WAKATIME_USER", "TreasureBoy99")
 
 # RSS feeds to surface under live_pulse. Each entry: (label, url, max_items)
 # Sources are GitHub Pages-hosted RSS (so they aggregate CONTENT, not just
 # commit history — much more useful for a "what am i shipping" feed).
 RSS_FEEDS = [
-    ("cve_monitor",       "https://anonymous99-rise.github.io/cve_monitor/RSS/cve_rss.xml", 3),
-    ("ai-mentor-xiaoxi",  "https://anonymous99-rise.github.io/ai-mentor-xiaoxi/rss.xml", 3),
+    ("cve_monitor",       "https://TreasureBoy99.github.io/cve_monitor/RSS/cve_rss.xml", 3),
+    ("ai-mentor-xiaoxi",  "https://TreasureBoy99.github.io/ai-mentor-xiaoxi/rss.xml", 3),
 ]
 
 # Two anchored sections in README, identified by their containing headings.
@@ -356,7 +356,7 @@ def build_feed() -> str:
                 title = title[:67] + "…"
             rows.append(f"- <code>{item['updated']}</code> · [{title}]({item['link']})")
         sections.append(
-            f"#### ▸ [`{repo_name}`](https://github.com/anonymous99-Rise/{repo_name})\n\n" + "\n".join(rows)
+            f"#### ▸ [`{repo_name}`](https://github.com/TreasureBoy99/{repo_name})\n\n" + "\n".join(rows)
         )
 
     if not sections:
