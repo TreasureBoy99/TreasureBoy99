@@ -16,20 +16,23 @@
 
 ![Matrix](https://matrix.toimg.com/matrix/EoKFIJ.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TreasureBoy99&theme=matrix&column=7&no-frame=true)](https://github.com/TreasureBoy99)
-</div>
-
 ---
 
 ## ⚡ STATS
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary.vercel.app/api?username=TreasureBoy99&theme=github&title_color=F700FF&text_color=00FF9F&icon_color=FF00FF&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary.vercel.app/api/top-langs/?username=TreasureBoy99&theme=github&title_color=F700FF&text_color=00FF9F&icon_color=FF00FF&hide_border=true" />
+  <img src="https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/following-19-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVE_24h-445-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TreasureBoy99&theme=midnight-purple&border=FF00FF&fire=FF00FF&currStreakLabel=F700FF&sideLabels=F700FF&currStreakNum=00FF9F&sideNums=00FF9F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TreasureBoy99&show_icons=true&theme=midnight-purple&border_color=FF00FF" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TreasureBoy99&theme=midnight-purple&border=FF00FF&fire=FF00FF&currStreakLabel=F700FF&sideLabels=F700FF&currStreakNum=00FF9F&sideNums=00FF9F&hide_total_stars=false" />
 </p>
 
 ---
