@@ -21,11 +21,11 @@
 
 ---
 
-## ⚡ STATS ▓▓▓
+## ⚡ STATS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TreasureBoy99&show_icons=true&theme=midnight-purple&border_color=FF00FF&title_color=F700FF&text_color=00FF9F" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreasureBoy99&layout=compact&theme=midnight-purple&border_color=FF00FF&title_color=F700FF&text_color=00FF9F" />
+  <img width="49%" src="https://github-profile-summary.vercel.app/api?username=TreasureBoy99&theme=github&title_color=F700FF&text_color=00FF9F&icon_color=FF00FF&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary.vercel.app/api/top-langs/?username=TreasureBoy99&theme=github&title_color=F700FF&text_color=00FF9F&icon_color=FF00FF&hide_border=true" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔍 OPERATIONS ▓▓▓
+## operations
 
 <!-- DYNAMIC:START -->
 | ▓▓▓ METRIC | ▓▓▓ VALUE |
@@ -50,44 +50,27 @@
 
 ---
 
-## 📡 LIVE FEEDS ▓▓▓
+## live_pulse
+
+<!-- DYNAMIC:START -->
+<!-- GitHub stats + CVE count injected by profile_pulse.py -->
+<!-- DYNAMIC:END -->
+
+---
+
+## feed
 
 <div align="center">
 
 <!-- DYNAMIC:START -->
-
-### 🔴 SPLOITUS — Latest Exploits
-| # | Title | CVE | Published |
-|:---:|:---|:---:|:---:|
-| — | feed loading... | — | — |
-
-[📡 View All Exploits](https://sploitus.com) · [⚡ RSS](https://sploitus.com/rss)
-
----
-
-### 🟡 LINUXDO — Trending
-| # | Title | Author | Score |
-|:---:|:---|:---:|:---:|
-| — | feed loading... | — | — |
-
-[🌐 LinuxDo](https://linux.do) · [📝 RSS](https://linux.do/feed)
-
----
-
-### 🔵 REDDIT — r/netsec + r/cybersecurity
-| # | Post | Sub | Score |
-|:---:|:---|:---:|:---:|
-| — | feed loading... | — | — |
-
-[r/netsec](https://reddit.com/r/netsec) · [r/cybersecurity](https://reddit.com/r/cybersecurity)
-
+*feed loading…*
 <!-- DYNAMIC:END -->
 
 </div>
 
 ---
 
-## ⏱️ WAKATIME — Coding Activity ▓▓▓
+## wakatime
 
 <!-- DYNAMIC:START -->
 ```

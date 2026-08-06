@@ -496,8 +496,8 @@ def inject(readme_text: str, heading: str, new_content: str) -> str:
     <!-- DYNAMIC:START --> ... <!-- DYNAMIC:END --> block inside it with
     `new_content`. If no marker pair found, no-op (returns text unchanged).
     """
-    # locate heading line: ## anything operations
-    h_re = re.compile(rf"^##[^a-zA-Z]*{re.escape(heading)}\s*$", re.MULTILINE)
+    # locate heading line: ## anything <heading> (case-insensitive, handles emoji)
+    h_re = re.compile(rf"^##.*{re.escape(heading)}.*$", re.MULTILINE | re.IGNORECASE)
     m_h = h_re.search(readme_text)
     if not m_h:
         print(f"  ! heading '{heading}' not found, skipping", file=sys.stderr)
