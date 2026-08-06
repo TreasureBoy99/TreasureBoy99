@@ -2,17 +2,18 @@
 
 **Security researcher** — offensive tooling · CVE analysis · red team automation
 
-<p align="left">
+<div align="left">
 
-![Security Research](https://img.shields.io/badge/-Security%20Research-red?style=flat-square&logoColor=white)
-![Red Team](https://img.shields.io/badge/-Red%20Team-red?style=flat-square&logoColor=white)
-![CVE%20Analysis](https://img.shields.io/badge/-CVE%20Analysis-red?style=flat-square&logoColor=white)
-![LLM%20Security](https://img.shields.io/badge/-LLM%20Security-orange?style=flat-square&logoColor=white)
-![Supply%20Chain](https://img.shields.io/badge/-Supply%20Chain-orange?style=flat-square&logoColor=white)
-![Zero%20Days](https://img.shields.io/badge/-Zero%20Days-red?style=flat-square&logoColor=white)
-![China](https://img.shields.io/badge/-China-grey?style=flat-square&logoColor=white)
+![Red Team](https://img.shields.io/badge/-Red%20Team-FF4136?style=for-the-badge&logoColor=white)
+![CVE%20Analysis](https://img.shields.io/badge/-CVE%20Analysis-85192D?style=for-the-badge&logoColor=white)
+![LLM%20Security](https://img.shields.io/badge/-LLM%20Security-2ECC40?style=for-the-badge&logoColor=white)
+![Supply%20Chain](https://img.shields.io/badge/-Supply%20Chain-F5A623?style=for-the-badge&logoColor=white)
+![Zero%20Days](https://img.shields.io/badge/-Zero%20Days-111111?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kali](https://img.shields.io/badge/-Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-</p>
+</div>
 
 *Building:* offensive security tooling + CVE monitoring pipeline
 
