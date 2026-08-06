@@ -1,10 +1,10 @@
 # TreasureBoy99
 
-**Security researcher** · Vulnerability analysis · Penetration testing automation
+> Security researcher · Vulnerability analysis · Penetration testing automation
 
-📍 **China** · 👤 **Red team / CVE research** · 🔍 **Currently focused on: LLM security, supply chain attacks, zero-days**
+📍 China &nbsp;·&nbsp; 👤 Red Team / CVE Research &nbsp;·&nbsp; 🔍 LLM Security · Supply Chain · Zero-days
 
-**Now:** Building offensive security tooling and CVE monitoring at scale.
+**Currently building:** offensive security tooling + CVE monitoring pipeline
 
 ---
 
