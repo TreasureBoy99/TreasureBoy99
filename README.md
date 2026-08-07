@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── TreasureBoy99 (—, pushed 2026-08-06) — no description
-    ├── pdfcraft (TypeScript, pushed 2026-08-06) — Restored from anonymous99-Rise
-    └── CVE-Poc_All_in_One (Python, pushed 2026-08-06) — Restored from anonymous99-Rise
+    ├── VulnWatchDog (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
+    ├── ThreatVision (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
+    └── ai-daily-newsletter (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-0-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-21-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-172-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-447-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-6-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-21-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-496-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-06 04:11 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-07 02:13 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-06</code> · [pocWiki exploit](https://sploitus.com/exploit?id=E364AAF1-7B2B-5B5B-A0E1-812DF43949FE&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [exploitarium](https://sploitus.com/exploit?id=420DB1AB-C00E-514C-88FA-F4D1516F2B8F&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [cve-2026-poc-collection exploit](https://sploitus.com/exploit?id=8621F4E6-19EA-5FA2-9C4E-6FCFE544B313&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [feedparser-redos-poc exploit](https://sploitus.com/exploit?id=F6A26172-5843-54F7-9264-018528F37900&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [ncentral-compromise-ioc-triage exploit](https://sploitus.com/exploit?id=9E5544BE-993D-53D1-A892-5DD0D18C0EBB&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [Exploit for Signal Handler Race Condition in Sonicwall Sma_6200_Fir…](https://sploitus.com/exploit?id=2AB4EF50-4ADC-5240-8795-A68B64A7A43B&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [phymem-exploit](https://sploitus.com/exploit?id=D3ECB8E7-9DC6-5041-9BFB-B7C2A629292D&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [Exploit for SQL Injection in Php](https://sploitus.com/exploit?id=51E0C907-B3A2-5065-ACFF-108F965DE50B&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [ResetNightmare-Python exploit](https://sploitus.com/exploit?id=3C22B15B-1461-5370-9F3F-5B2B8AC8508A&utm_source=rss&utm_medium=rss)
+- <code>2026-08-06</code> · [WebExploitation-Notes](https://sploitus.com/exploit?id=4BC33C90-6654-5AAB-936D-0A25BF80FE71&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -101,13 +101,14 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`16.0m`** coded in last 7 days · editors: `VS Code` (12.0m), `Claude Code` (4.0m)
+**`43.0m`** coded in last 7 days · editors: `VS Code` (40.0m), `Claude Code` (2.0m)
 
-- `Other       ` ██████████ 9.0m
-- `Python      ` ███░░░░░░░ 3.0m
-- `Markdown    ` ███░░░░░░░ 3.0m
+- `Other       ` ██████████ 31.0m
+- `JavaScript  ` █░░░░░░░░░ 4.0m
+- `Python      ` █░░░░░░░░░ 3.0m
+- `Markdown    ` █░░░░░░░░░ 3.0m
 
-<sub>range: 2026-07-30 → 2026-08-06 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-07-31 → 2026-08-07 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
