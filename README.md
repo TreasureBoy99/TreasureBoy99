@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
-    ├── ThreatVision (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
-    └── ai-daily-newsletter (Python, pushed 2026-08-07) — Restored from anonymous99-Rise
+    ├── VulnWatchDog (Python, pushed 2026-08-08) — no description
+    ├── ThreatVision (Python, pushed 2026-08-08) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-08) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-6-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-21-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-496-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-7-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-23-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-216-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-07 02:13 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-08 01:01 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-06</code> · [Exploit for Signal Handler Race Condition in Sonicwall Sma_6200_Fir…](https://sploitus.com/exploit?id=2AB4EF50-4ADC-5240-8795-A68B64A7A43B&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [phymem-exploit](https://sploitus.com/exploit?id=D3ECB8E7-9DC6-5041-9BFB-B7C2A629292D&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [Exploit for SQL Injection in Php](https://sploitus.com/exploit?id=51E0C907-B3A2-5065-ACFF-108F965DE50B&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [ResetNightmare-Python exploit](https://sploitus.com/exploit?id=3C22B15B-1461-5370-9F3F-5B2B8AC8508A&utm_source=rss&utm_medium=rss)
-- <code>2026-08-06</code> · [WebExploitation-Notes](https://sploitus.com/exploit?id=4BC33C90-6654-5AAB-936D-0A25BF80FE71&utm_source=rss&utm_medium=rss)
+- <code>2026-08-08</code> · [Exploit for Deserialization of Untrusted Data in Jetbrains Teamcity](https://sploitus.com/exploit?id=AFCC98D3-030D-51DB-BA2D-441C735E9B6B&utm_source=rss&utm_medium=rss)
+- <code>2026-08-07</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=742A12A7-2805-526E-80AB-8421D4832885&utm_source=rss&utm_medium=rss)
+- <code>2026-08-07</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=A26B3604-89A9-5E82-B3E9-A73A477ACB55&utm_source=rss&utm_medium=rss)
+- <code>2026-08-07</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=FB2615B4-8EAD-57A1-85A4-8DC9057C2E9A&utm_source=rss&utm_medium=rss)
+- <code>2026-08-07</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=20F3F343-B831-5AD8-8A4D-B5A4E269BB9D&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -101,14 +101,14 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`43.0m`** coded in last 7 days · editors: `VS Code` (40.0m), `Claude Code` (2.0m)
+**`47.0m`** coded in last 7 days · editors: `VS Code` (44.0m), `Claude Code` (2.0m)
 
 - `Other       ` ██████████ 31.0m
+- `Python      ` ██░░░░░░░░ 7.0m
 - `JavaScript  ` █░░░░░░░░░ 4.0m
-- `Python      ` █░░░░░░░░░ 3.0m
 - `Markdown    ` █░░░░░░░░░ 3.0m
 
-<sub>range: 2026-07-31 → 2026-08-07 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-01 → 2026-08-08 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
