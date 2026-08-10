@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-08-09) — no description
-    ├── ThreatVision (Python, pushed 2026-08-09) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-08-09) — no description
+    ├── VulnWatchDog (Python, pushed 2026-08-10) — no description
+    ├── ThreatVision (Python, pushed 2026-08-10) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-10) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-8-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-23-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-0-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-66-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-23-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-1-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-76-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-09 01:05 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-10 01:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-08</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=B90963A7-3EF0-5452-A6A6-658C8B602E02&utm_source=rss&utm_medium=rss)
-- <code>2026-08-08</code> · [Hacked-Machines exploit](https://sploitus.com/exploit?id=95EBB043-2604-584B-B551-33213DEB7E14&utm_source=rss&utm_medium=rss)
-- <code>2026-08-08</code> · [Exploit for SQL Injection in Wordpress](https://sploitus.com/exploit?id=497286E1-C7A5-56E6-945B-5EA4822F5C75&utm_source=rss&utm_medium=rss)
-- <code>2026-08-08</code> · [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=484DD59E-FE2E-5C54-905D-5C2F33014E84&utm_source=rss&utm_medium=rss)
-- <code>2026-08-08</code> · [Deserializacion exploit](https://sploitus.com/exploit?id=42C7D0E3-E62C-5A0C-9FD1-521347B071ED&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [ubi-stage6-exploit-chain](https://sploitus.com/exploit?id=1F23697E-D78B-5344-B8DA-A958E640315E&utm_source=rss&utm_medium=rss)
+- <code>2026-08-09</code> · [Exploit for CVE-2025-7026](https://sploitus.com/exploit?id=A57467E8-B975-5403-A152-68766BC83729&utm_source=rss&utm_medium=rss)
+- <code>2026-08-09</code> · [langflow-exploit](https://sploitus.com/exploit?id=96FB054B-D5D3-50DD-8F94-788DFA1EB4D2&utm_source=rss&utm_medium=rss)
+- <code>2026-08-09</code> · [jdwp-exploit](https://sploitus.com/exploit?id=27BBDDD1-2D85-599C-9143-D6B2A59921CD&utm_source=rss&utm_medium=rss)
+- <code>2026-08-09</code> · [Exploit for CVE-2026-69084](https://sploitus.com/exploit?id=EFAE4382-8B52-52E8-B2F7-900D05C3A218&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -108,7 +108,7 @@
 - `JavaScript  ` █░░░░░░░░░ 4.0m
 - `Markdown    ` █░░░░░░░░░ 3.0m
 
-<sub>range: 2026-08-02 → 2026-08-09 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-03 → 2026-08-10 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
