@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-08-10) — no description
-    ├── ThreatVision (Python, pushed 2026-08-10) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-08-10) — no description
+    ├── VulnWatchDog (Python, pushed 2026-08-11) — no description
+    ├── ThreatVision (Python, pushed 2026-08-11) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-11) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-23-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-173-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-1-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-76-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-175-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-1-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-724-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-10 01:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-11 01:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-10</code> · [ubi-stage6-exploit-chain](https://sploitus.com/exploit?id=1F23697E-D78B-5344-B8DA-A958E640315E&utm_source=rss&utm_medium=rss)
-- <code>2026-08-09</code> · [Exploit for CVE-2025-7026](https://sploitus.com/exploit?id=A57467E8-B975-5403-A152-68766BC83729&utm_source=rss&utm_medium=rss)
-- <code>2026-08-09</code> · [langflow-exploit](https://sploitus.com/exploit?id=96FB054B-D5D3-50DD-8F94-788DFA1EB4D2&utm_source=rss&utm_medium=rss)
-- <code>2026-08-09</code> · [jdwp-exploit](https://sploitus.com/exploit?id=27BBDDD1-2D85-599C-9143-D6B2A59921CD&utm_source=rss&utm_medium=rss)
-- <code>2026-08-09</code> · [Exploit for CVE-2026-69084](https://sploitus.com/exploit?id=EFAE4382-8B52-52E8-B2F7-900D05C3A218&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=9938020B-C1D9-56AD-B29F-A38838AE38C9&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [Exploit for CVE-2025-7771](https://sploitus.com/exploit?id=6D5BC7E6-C0A6-54A0-8116-47799C31DFA2&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=CF991020-D4D1-545A-BB38-599DBE466897&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [pt-esign__Damn-vulnerable-sca exploit](https://sploitus.com/exploit?id=A280E910-66FD-5193-B5F6-9840B42148EF&utm_source=rss&utm_medium=rss)
+- <code>2026-08-10</code> · [pt-platform__java-goof-1 exploit](https://sploitus.com/exploit?id=0B8C940D-49E0-561B-BFC8-CAC1A86226BF&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -108,7 +108,7 @@
 - `JavaScript  ` █░░░░░░░░░ 4.0m
 - `Markdown    ` █░░░░░░░░░ 3.0m
 
-<sub>range: 2026-08-03 → 2026-08-10 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-04 → 2026-08-11 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
