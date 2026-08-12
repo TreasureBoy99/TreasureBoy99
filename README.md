@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-08-11) — no description
-    ├── ThreatVision (Python, pushed 2026-08-11) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-08-11) — no description
+    ├── VulnWatchDog (Python, pushed 2026-08-12) — no description
+    ├── ThreatVision (Python, pushed 2026-08-12) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-12) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-175-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-1-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-724-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-3-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-979-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-11 01:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-12 01:14 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-10</code> · [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=9938020B-C1D9-56AD-B29F-A38838AE38C9&utm_source=rss&utm_medium=rss)
-- <code>2026-08-10</code> · [Exploit for CVE-2025-7771](https://sploitus.com/exploit?id=6D5BC7E6-C0A6-54A0-8116-47799C31DFA2&utm_source=rss&utm_medium=rss)
-- <code>2026-08-10</code> · [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=CF991020-D4D1-545A-BB38-599DBE466897&utm_source=rss&utm_medium=rss)
-- <code>2026-08-10</code> · [pt-esign__Damn-vulnerable-sca exploit](https://sploitus.com/exploit?id=A280E910-66FD-5193-B5F6-9840B42148EF&utm_source=rss&utm_medium=rss)
-- <code>2026-08-10</code> · [pt-platform__java-goof-1 exploit](https://sploitus.com/exploit?id=0B8C940D-49E0-561B-BFC8-CAC1A86226BF&utm_source=rss&utm_medium=rss)
+- <code>2026-08-12</code> · [cve-check exploit](https://sploitus.com/exploit?id=15996909-AD54-52AC-A29C-7090E34B11A2&utm_source=rss&utm_medium=rss)
+- <code>2026-08-11</code> · [Exploit for CVE-2025-10951](https://sploitus.com/exploit?id=4DB540B0-D39A-5BD2-AC89-7A706E8BB7F3&utm_source=rss&utm_medium=rss)
+- <code>2026-08-11</code> · [cyberange exploit](https://sploitus.com/exploit?id=2C66848B-89D7-5B08-A5BB-8B629006B8FF&utm_source=rss&utm_medium=rss)
+- <code>2026-08-11</code> · [threat-intel-toolkit exploit](https://sploitus.com/exploit?id=E7479E28-692D-5ED0-8AC1-42970F3EEF06&utm_source=rss&utm_medium=rss)
+- <code>2026-08-11</code> · [Exploit for Insertion of Sensitive Information into Log File in Hit…](https://sploitus.com/exploit?id=A8D910FE-2EC7-5AF1-971D-8E2AFF7C739D&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -91,9 +91,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-08-11</code> · [How Trail of Bits helps verify the integrity of your Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
 - <code>2026-08-05</code> · [A few notes on AWS Nitro Enclaves: KMS integration](https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/)
 - <code>2026-07-30</code> · [Building secure Uniswap v4 hooks](https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/)
-- <code>2026-07-28</code> · [How we use /goal to find bugs in Patch the Planet](https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -101,14 +101,15 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`47.0m`** coded in last 7 days · editors: `VS Code` (44.0m), `Claude Code` (2.0m)
+**`4.0h 3.0m`** coded in last 7 days · editors: `VS Code` (4.0h 0.0m), `Claude Code` (2.0m)
 
-- `Other       ` ██████████ 31.0m
-- `Python      ` ██░░░░░░░░ 7.0m
-- `JavaScript  ` █░░░░░░░░░ 4.0m
-- `Markdown    ` █░░░░░░░░░ 3.0m
+- `Markdown    ` ██████████ 2.0h 30.0m
+- `Other       ` ██░░░░░░░░ 31.0m
+- `JSON        ` █░░░░░░░░░ 21.0m
+- `YAML        ` █░░░░░░░░░ 15.0m
+- `HTML        ` ░░░░░░░░░░ 14.0m
 
-<sub>range: 2026-08-04 → 2026-08-11 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-05 → 2026-08-12 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
