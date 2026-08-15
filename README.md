@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-08-14) — no description
-    ├── ThreatVision (Python, pushed 2026-08-14) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-08-14) — no description
+    ├── ThreatVision (Python, pushed 2026-08-15) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-08-15) — no description
+    └── github_cve_monitor (Python, pushed 2026-08-15) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-3-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-608-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-3-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-209-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-14 01:14 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-15 00:46 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-13</code> · [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=415A2BD6-5BCB-54CD-9011-E1EE29BF8739&utm_source=rss&utm_medium=rss)
-- <code>2026-08-13</code> · [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=9CD3F74A-578C-52C5-BF2A-047D4CBE0F22&utm_source=rss&utm_medium=rss)
-- <code>2026-08-13</code> · [wp-forge exploit](https://sploitus.com/exploit?id=7CBA8976-F87A-5F9B-93F4-C50ED3958EFA&utm_source=rss&utm_medium=rss)
-- <code>2026-08-13</code> · [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=958423A8-16EB-52C6-9A18-54F1646CE3AB&utm_source=rss&utm_medium=rss)
-- <code>2026-08-13</code> · [Blue-EternalBlue-Exploit](https://sploitus.com/exploit?id=5B962B99-C484-5BB8-A8F7-E255CDE1FB46&utm_source=rss&utm_medium=rss)
+- <code>2026-08-14</code> · [Exploit for Authentication Bypass Using an Alternate Path or Channe…](https://sploitus.com/exploit?id=8124CEFC-E02F-5BB8-95E3-801916007113&utm_source=rss&utm_medium=rss)
+- <code>2026-08-14</code> · [Exploit for Missing Authentication for Critical Function in Erlang …](https://sploitus.com/exploit?id=9379C596-214A-50EF-9E00-A1938B33DF51&utm_source=rss&utm_medium=rss)
+- <code>2026-08-14</code> · [Exploit for Injection in Budibase](https://sploitus.com/exploit?id=FD7989FE-1334-5694-B4FB-8C6FA6051A41&utm_source=rss&utm_medium=rss)
+- <code>2026-08-14</code> · [Exploit for CVE-2026-52715](https://sploitus.com/exploit?id=E421EB08-F9A1-5526-A5FB-B7718898A805&utm_source=rss&utm_medium=rss)
+- <code>2026-08-14</code> · [Exploit for CVE-2026-12345](https://sploitus.com/exploit?id=1E156C2F-E7B6-53C8-81B6-2C04BF288661&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [cryptoeng](https://blog.cryptographyengineering.com/feed/)
 
+- <code>2026-08-14</code> · [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 - <code>2026-07-29</code> · [Some thoughts about Anthropic’s new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 - <code>2026-06-09</code> · [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
-- <code>2026-05-29</code> · [Let’s talk about encrypted reasoning](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/)
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
@@ -101,15 +101,15 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`4.0h 14.0m`** coded in last 7 days · editors: `VS Code` (4.0h 14.0m)
+**`3.0h 21.0m`** coded in last 7 days · editors: `VS Code` (3.0h 21.0m)
 
-- `Markdown    ` ██████████ 2.0h 35.0m
-- `Batchfile   ` ██░░░░░░░░ 45.0m
-- `JSON        ` █░░░░░░░░░ 21.0m
+- `Markdown    ` ██████████ 1.0h 44.0m
+- `Batchfile   ` ████░░░░░░ 45.0m
+- `JSON        ` █░░░░░░░░░ 19.0m
 - `YAML        ` █░░░░░░░░░ 15.0m
-- `HTML        ` ░░░░░░░░░░ 14.0m
+- `HTML        ` █░░░░░░░░░ 14.0m
 
-<sub>range: 2026-08-07 → 2026-08-14 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-08 → 2026-08-15 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
