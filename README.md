@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-08-15) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-08-15) — no description
-    └── github_cve_monitor (Python, pushed 2026-08-15) — 无discord推送
+    ├── VulnWatchDog (Python, pushed 2026-08-16) — no description
+    ├── ThreatVision (Python, pushed 2026-08-16) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-16) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-3-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-209-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-25-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-3-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-929-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-15 00:46 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-16 00:49 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-14</code> · [Exploit for Authentication Bypass Using an Alternate Path or Channe…](https://sploitus.com/exploit?id=8124CEFC-E02F-5BB8-95E3-801916007113&utm_source=rss&utm_medium=rss)
-- <code>2026-08-14</code> · [Exploit for Missing Authentication for Critical Function in Erlang …](https://sploitus.com/exploit?id=9379C596-214A-50EF-9E00-A1938B33DF51&utm_source=rss&utm_medium=rss)
-- <code>2026-08-14</code> · [Exploit for Injection in Budibase](https://sploitus.com/exploit?id=FD7989FE-1334-5694-B4FB-8C6FA6051A41&utm_source=rss&utm_medium=rss)
-- <code>2026-08-14</code> · [Exploit for CVE-2026-52715](https://sploitus.com/exploit?id=E421EB08-F9A1-5526-A5FB-B7718898A805&utm_source=rss&utm_medium=rss)
-- <code>2026-08-14</code> · [Exploit for CVE-2026-12345](https://sploitus.com/exploit?id=1E156C2F-E7B6-53C8-81B6-2C04BF288661&utm_source=rss&utm_medium=rss)
+- <code>2026-08-15</code> · [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
+- <code>2026-08-15</code> · [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
+- <code>2026-08-15</code> · [Exploit for CVE-2026-9147](https://sploitus.com/exploit?id=B2F438C4-2CAB-5702-968B-7E556A2A7CDB&utm_source=rss&utm_medium=rss)
+- <code>2026-08-15</code> · [Exploit for Code Injection in Fgmacedo Python_Statemachine](https://sploitus.com/exploit?id=F49E101F-7F33-59F4-80EA-0E437F9BE8CA&utm_source=rss&utm_medium=rss)
+- <code>2026-08-15</code> · [Exploit for CVE-2026-9830](https://sploitus.com/exploit?id=C946FC2B-AB27-5636-AB9C-0AE6E9C6A4FE&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -101,15 +101,15 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`3.0h 21.0m`** coded in last 7 days · editors: `VS Code` (3.0h 21.0m)
+**`3.0h 5.0m`** coded in last 7 days · editors: `VS Code` (3.0h 5.0m)
 
-- `Markdown    ` ██████████ 1.0h 44.0m
-- `Batchfile   ` ████░░░░░░ 45.0m
-- `JSON        ` █░░░░░░░░░ 19.0m
+- `Markdown    ` ██████████ 1.0h 30.0m
+- `Batchfile   ` █████░░░░░ 45.0m
+- `JSON        ` ██░░░░░░░░ 18.0m
 - `YAML        ` █░░░░░░░░░ 15.0m
 - `HTML        ` █░░░░░░░░░ 14.0m
 
-<sub>range: 2026-08-08 → 2026-08-15 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-09 → 2026-08-16 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
