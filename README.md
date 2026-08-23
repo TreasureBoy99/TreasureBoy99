@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-08-22) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-08-22) — no description
-    └── CVE (Python, pushed 2026-08-22) — no description
+    ├── VulnWatchDog (Python, pushed 2026-08-23) — no description
+    ├── ThreatVision (Python, pushed 2026-08-23) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-08-23) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-294-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-247-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-22 00:45 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-23 00:51 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-21</code> · [SOC-Lab-Vulnerability-Assessment exploit](https://sploitus.com/exploit?id=458CF757-B0D4-5D27-9E5F-5C580E9B0B64&utm_source=rss&utm_medium=rss)
-- <code>2026-08-21</code> · [OSCP-Exploits](https://sploitus.com/exploit?id=B17F5F4E-FAAD-5D43-863A-769ED873F3AB&utm_source=rss&utm_medium=rss)
-- <code>2026-08-21</code> · [Exploit for Improper Authentication in Apple Macos](https://sploitus.com/exploit?id=1E99C40C-4AFC-56D3-AA4D-08A333199E02&utm_source=rss&utm_medium=rss)
-- <code>2026-08-21</code> · [Exploit for Improper Access Control in Widgetfactorylimited Jce](https://sploitus.com/exploit?id=BB3A85A9-468E-5902-9898-74122FCE6534&utm_source=rss&utm_medium=rss)
-- <code>2026-08-21</code> · [dsh2shell exploit](https://sploitus.com/exploit?id=778FE329-C74E-5319-BD17-07ED1918598D&utm_source=rss&utm_medium=rss)
+- <code>2026-08-22</code> · [Exploit for Unrestricted Upload of File with Dangerous Type in Cute…](https://sploitus.com/exploit?id=DE3037CC-3A52-5C9C-B637-079CC5C589AD&utm_source=rss&utm_medium=rss)
+- <code>2026-08-22</code> · [Exploit for CVE-2026-75616](https://sploitus.com/exploit?id=8FE02773-848D-5AFE-9942-9C0B004CD15B&utm_source=rss&utm_medium=rss)
+- <code>2026-08-22</code> · [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=E10C0347-A487-529C-A636-E98E109449EE&utm_source=rss&utm_medium=rss)
+- <code>2026-08-22</code> · [Exploit for CVE-2026-52618](https://sploitus.com/exploit?id=5C5A7971-4F01-5F90-A72C-A9BB9373CCF7&utm_source=rss&utm_medium=rss)
+- <code>2026-08-22</code> · [Exploit for CVE-2026-52617](https://sploitus.com/exploit?id=091C0973-0963-54FE-B3B3-D2FE0198B351&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -101,15 +101,15 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`3.0h 28.0m`** coded in last 7 days · editors: `VS Code` (2.0h 54.0m), `Claude Code` (33.0m)
+**`3.0h 21.0m`** coded in last 7 days · editors: `VS Code` (2.0h 47.0m), `Claude Code` (33.0m)
 
-- `Markdown    ` ██████████ 1.0h 5.0m
-- `Other       ` ██████░░░░ 43.0m
-- `Python      ` █████░░░░░ 39.0m
-- `YAML        ` ████░░░░░░ 29.0m
+- `Markdown    ` ██████████ 59.0m
+- `Other       ` ███████░░░ 43.0m
+- `Python      ` ██████░░░░ 39.0m
+- `YAML        ` █████░░░░░ 29.0m
 - `TypeScript  ` █░░░░░░░░░ 9.0m
 
-<sub>range: 2026-08-15 → 2026-08-22 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-16 → 2026-08-23 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
