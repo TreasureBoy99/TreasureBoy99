@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-08-25) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-08-25) — no description
-    └── github_cve_monitor (Python, pushed 2026-08-25) — 无discord推送
+    ├── ThreatVision (Python, pushed 2026-08-26) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-08-26) — no description
+    └── github_cve_monitor (Python, pushed 2026-08-26) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-316-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-773-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-25 00:48 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-08-26 00:49 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-24</code> · [Exploit for CVE-2026-18963](https://sploitus.com/exploit?id=B9ECC673-A7CC-5EAE-85D2-AB66A14EEF0C&utm_source=rss&utm_medium=rss)
-- <code>2026-08-24</code> · [Exploit for Improper Privilege Management in Mozilla Firefox](https://sploitus.com/exploit?id=DA7E875A-0206-55F2-B9D4-A4D8854AB3AB&utm_source=rss&utm_medium=rss)
-- <code>2026-08-24</code> · [Acelle-Mail-4.0.24-Unauthenticated-Path-Traversal-to-RCE-Chain exploit](https://sploitus.com/exploit?id=AC1C6CCB-4293-5856-8A3E-EF79FBF3897E&utm_source=rss&utm_medium=rss)
-- <code>2026-08-24</code> · [Exploit for Improper Restriction of Excessive Authentication Attemp…](https://sploitus.com/exploit?id=F513EBE7-12DB-5C5D-8857-C0AF6BD5141D&utm_source=rss&utm_medium=rss)
-- <code>2026-08-24</code> · [Exploit for Use After Free in Microsoft](https://sploitus.com/exploit?id=25EC0A91-E720-5F59-8D03-07045F8491C9&utm_source=rss&utm_medium=rss)
+- <code>2026-08-25</code> · [log4j-cve-code-search-resources exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SOURCEGRAPH-LOG4J-CVE-CODE-SEARCH-RESOURCES&utm_source=rss&utm_medium=rss)
+- <code>2026-08-25</code> · [CVE-2019-9053 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KAIZOKU73-CVE-2019-9053&utm_source=rss&utm_medium=rss)
+- <code>2026-08-25</code> · [CVE-2020-14947 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MHASKAR-CVE-2020-14947&utm_source=rss&utm_medium=rss)
+- <code>2026-08-25</code> · [CVE-2018-8208 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KAISARYOUSUF-CVE-2018-8208&utm_source=rss&utm_medium=rss)
+- <code>2026-08-25</code> · [CVE-2025-6218 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IGNIS-SEC-CVE-2025-6218&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -91,9 +91,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-08-25</code> · [State divergence enables unauthorized access](https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/)
 - <code>2026-08-11</code> · [How Trail of Bits helps verify the integrity of your Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
 - <code>2026-08-05</code> · [A few notes on AWS Nitro Enclaves: KMS integration](https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/)
-- <code>2026-07-30</code> · [Building secure Uniswap v4 hooks](https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -101,15 +101,14 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-**`2.0h 33.0m`** coded in last 7 days · editors: `VS Code` (2.0h 21.0m), `Claude Code` (11.0m)
+**`57.0m`** coded in last 7 days · editors: `VS Code` (57.0m), `Claude Code` (0.0m)
 
-- `Other       ` ██████████ 43.0m
-- `Python      ` █████████░ 39.0m
-- `Markdown    ` ███████░░░ 33.0m
-- `TypeScript  ` ██░░░░░░░░ 9.0m
-- `Batchfile   ` █░░░░░░░░░ 8.0m
+- `Other       ` ██████████ 33.0m
+- `Python      ` █████░░░░░ 17.0m
+- `JSON        ` █░░░░░░░░░ 4.0m
+- `Markdown    ` ░░░░░░░░░░ 3.0m
 
-<sub>range: 2026-08-18 → 2026-08-25 · tz: Asia/Shanghai · source: wakatime API</sub>
+<sub>range: 2026-08-19 → 2026-08-26 · tz: Asia/Shanghai · source: wakatime API</sub>
 <!-- DYNAMIC:END -->
 
 
