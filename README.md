@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-09-01) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-09-01) — no description
-    └── github_cve_monitor (Python, pushed 2026-09-01) — 无discord推送
+    ├── ThreatVision (Python, pushed 2026-09-02) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-09-02) — no description
+    └── github_cve_monitor (Python, pushed 2026-09-02) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-347-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-492-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-01 02:52 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-02 02:12 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,23 +71,17 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-08-31</code> · [nmap exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NMAP-NMAP&utm_source=rss&utm_medium=rss)
-- <code>2026-08-31</code> · [CVE-2025-59287 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JIANSITING-CVE-2025-59287&utm_source=rss&utm_medium=rss)
-- <code>2026-08-31</code> · [CVE-2011-1249 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-H3X0V3RL0RD-CVE-2011-1249&utm_source=rss&utm_medium=rss)
-- <code>2026-08-31</code> · [cve_2022_0847_shellcode exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHOTOKHAN-CVE_2022_0847_SHELLCODE&utm_source=rss&utm_medium=rss)
-- <code>2026-08-31</code> · [CVE-2022-24760 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TUO4N8-CVE-2022-24760&utm_source=rss&utm_medium=rss)
+- <code>2026-09-02</code> · [CVE-2023-28343 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SUPERZEROSEC-CVE-2023-28343&utm_source=rss&utm_medium=rss)
+- <code>2026-09-01</code> · [CVE-2025-1974_IngressNightmare_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABREWER251-CVE-2025-1974_INGRESSNIGHTMARE_POC&utm_source=rss&utm_medium=rss)
+- <code>2026-09-01</code> · [CVE-2017-5007 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANG-YC-CVE-2017-5007&utm_source=rss&utm_medium=rss)
+- <code>2026-09-01</code> · [CVE-2023-41992 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WHW0X455-CVE-2023-41992&utm_source=rss&utm_medium=rss)
+- <code>2026-09-01</code> · [AgentMemshell exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FIGHTINGLZN9-AGENTMEMSHELL&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
 - <code>2026-02-15</code> · [OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)
 - <code>2025-12-28</code> · [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed/)
 - <code>2025-12-18</code> · [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker/)
-
-#### ▸ [cryptoeng](https://blog.cryptographyengineering.com/feed/)
-
-- <code>2026-08-14</code> · [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- <code>2026-07-29</code> · [Some thoughts about Anthropic’s new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
-- <code>2026-06-09</code> · [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
@@ -101,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-08-25 → 2026-09-01, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-08-26 → 2026-09-02, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
