@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-09-10) — no description
-    ├── ThreatVision (Python, pushed 2026-09-10) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-09-10) — no description
+    ├── ThreatVision (Python, pushed 2026-09-11) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-09-11) — no description
+    └── github_cve_monitor (Python, pushed 2026-09-11) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-9-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-432-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-385-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-10 02:22 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-11 02:17 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-09-10</code> · [Exploit for CVE-2026-72815](https://sploitus.com/exploit?id=96BA85C0-9261-5C52-BC77-CE0531979D65&utm_source=rss&utm_medium=rss)
-- <code>2026-09-10</code> · [CVE-2025-32756-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KN0X0X-CVE-2025-32756-POC&utm_source=rss&utm_medium=rss)
-- <code>2026-09-10</code> · [exploitcraft](https://sploitus.com/exploit?id=ACF7946E-D16B-5E86-8883-92929CF83BEE&utm_source=rss&utm_medium=rss)
-- <code>2026-09-10</code> · [DetectPacket-CVE-2017-8464 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRG-1999-DETECTPACKET-CVE-2017-8464&utm_source=rss&utm_medium=rss)
-- <code>2026-09-10</code> · [destroylist exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PHISHDESTROY-DESTROYLIST&utm_source=rss&utm_medium=rss)
+- <code>2026-09-11</code> · [Exploitarium-Detections](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ETHAN-ANDREWS-EXPLOITARIUM-DETECTIONS&utm_source=rss&utm_medium=rss)
+- <code>2026-09-11</code> · [EternalView exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RPRANSHU-ETERNALVIEW&utm_source=rss&utm_medium=rss)
+- <code>2026-09-11</code> · [EasY_HaCk exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SABRI-ZAKI-EASY_HACK&utm_source=rss&utm_medium=rss)
+- <code>2026-09-11</code> · [Redcloud exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KHAST3X-REDCLOUD&utm_source=rss&utm_medium=rss)
+- <code>2026-09-11</code> · [git-secrets exploit](https://sploitus.com/exploit?id=KITPLOIT:2971158680940410656&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-09-03 → 2026-09-10, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-09-04 → 2026-09-11, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
