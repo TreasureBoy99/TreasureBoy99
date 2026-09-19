@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-09-18) — no description
-    ├── ThreatVision (Python, pushed 2026-09-18) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-09-18) — no description
+    ├── ThreatVision (Python, pushed 2026-09-19) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-09-19) — no description
+    └── github_cve_monitor (Python, pushed 2026-09-19) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-1062-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-500-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-18 02:29 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-19 02:28 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-09-17</code> · [Exploit for CVE-2026-87796](https://sploitus.com/exploit?id=50DBF5BF-01EC-5C75-8FD8-ADF17DA2C4CE&utm_source=rss&utm_medium=rss)
-- <code>2026-09-17</code> · [Exploit for Improper Input Validation in Linuxfoundation Spinnaker](https://sploitus.com/exploit?id=9A6E5C99-15BF-5520-AEFC-4BFE446D7E74&utm_source=rss&utm_medium=rss)
-- <code>2026-09-17</code> · [Exploit for CVE-2026-1961](https://sploitus.com/exploit?id=A783650C-5CA4-59B1-B6E5-4310D8A33641&utm_source=rss&utm_medium=rss)
-- <code>2026-09-17</code> · [cve-2022-25640-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DIM0X69-CVE-2022-25640-EXPLOIT&utm_source=rss&utm_medium=rss)
-- <code>2026-09-17</code> · [CVE-2017-9805 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHAKUN8-CVE-2017-9805&utm_source=rss&utm_medium=rss)
+- <code>2026-09-18</code> · [Exploit for Cross-site Scripting in Jenkins Gitbucket](https://sploitus.com/exploit?id=2282799A-F721-55C8-BCC0-49018D419D76&utm_source=rss&utm_medium=rss)
+- <code>2026-09-18</code> · [serena-ssti-poc exploit](https://sploitus.com/exploit?id=20CF4902-09CF-5375-96ED-CEFE4FFA7C35&utm_source=rss&utm_medium=rss)
+- <code>2026-09-18</code> · [Exploit for Uncontrolled Resource Consumption in Siemens 6Bk1602-0A…](https://sploitus.com/exploit?id=56727EEE-10AC-5D50-895D-C52520C4493A&utm_source=rss&utm_medium=rss)
+- <code>2026-09-18</code> · [Exploit for CVE-2026-45140](https://sploitus.com/exploit?id=5BD031A7-1596-56B4-A7CD-0362166F2282&utm_source=rss&utm_medium=rss)
+- <code>2026-09-18</code> · [Exploit for CVE-2026-75827](https://sploitus.com/exploit?id=F80DE5B0-55B4-5CDF-8932-19DA19CE0B4B&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-09-18</code> · [Auditing in the age of (good enough) AI](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
 - <code>2026-09-15</code> · [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
 - <code>2026-09-09</code> · [A “proof” of Fermat’s Last Theorem that fits the margin](https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/)
-- <code>2026-08-26</code> · [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-09-11 → 2026-09-18, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-09-12 → 2026-09-19, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
