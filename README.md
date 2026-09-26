@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-09-25) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-09-25) — no description
-    └── github_cve_monitor (Python, pushed 2026-09-25) — 无discord推送
+    ├── VulnWatchDog (Python, pushed 2026-09-26) — no description
+    ├── ThreatVision (Python, pushed 2026-09-26) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-09-26) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-554-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-707-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-25 02:45 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-09-26 02:48 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-09-25</code> · [nuclei-templates exploit](https://sploitus.com/exploit?id=79451CF4-C409-598A-9C2C-EA829C282F2F&utm_source=rss&utm_medium=rss)
-- <code>2026-09-25</code> · [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=0304011F-5F13-5AAB-B224-74810D295732&utm_source=rss&utm_medium=rss)
-- <code>2026-09-25</code> · [Exploit for CVE-2026-79417](https://sploitus.com/exploit?id=6904E4EC-B0A0-5475-A1A4-F14DAB0E0E55&utm_source=rss&utm_medium=rss)
-- <code>2026-09-25</code> · [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=B04F74DD-0F98-51B5-B1A9-33AF3B9B4AC4&utm_source=rss&utm_medium=rss)
-- <code>2026-09-25</code> · [boofuzz exploit](https://sploitus.com/exploit?id=KITPLOIT:6776094090463084861&utm_source=rss&utm_medium=rss)
+- <code>2026-09-26</code> · [Exploit for CVE-2026-90817](https://sploitus.com/exploit?id=63ADBAA9-6164-57D4-85A0-5C1E51F59BE9&utm_source=rss&utm_medium=rss)
+- <code>2026-09-25</code> · [AstraRecon exploit](https://sploitus.com/exploit?id=F587A5E2-86B2-5925-9BB5-DF106F2772F3&utm_source=rss&utm_medium=rss)
+- <code>2026-09-25</code> · [Exploit for CVE-2026-96512](https://sploitus.com/exploit?id=B61E5A00-1230-5E18-BF55-19A81ED0C7A6&utm_source=rss&utm_medium=rss)
+- <code>2026-09-25</code> · [Exploit for CVE-2026-86350](https://sploitus.com/exploit?id=36E3818C-05BB-5797-A373-EA133743E98B&utm_source=rss&utm_medium=rss)
+- <code>2026-09-25</code> · [Exploit for CVE-2026-62062](https://sploitus.com/exploit?id=33F94CBD-2E88-51A0-A98F-DF6D6F27FF55&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-09-25</code> · [Don't let TEEs break your MPC](https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/)
 - <code>2026-09-21</code> · [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
 - <code>2026-09-18</code> · [Auditing in the age of (good enough) AI](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
-- <code>2026-09-15</code> · [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-09-18 → 2026-09-25, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-09-19 → 2026-09-26, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
