@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-10-02) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-10-02) — no description
-    └── github_cve_monitor (Python, pushed 2026-10-02) — 无discord推送
+    ├── VulnWatchDog (Python, pushed 2026-10-03) — no description
+    ├── ThreatVision (Python, pushed 2026-10-03) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-10-03) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-402-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-397-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-02 03:23 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-03 03:07 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-10-01</code> · [Exploit for Argument Injection in Thecodingmachine Gotenberg](https://sploitus.com/exploit?id=1499C09F-DA7B-5022-BC2B-8616393BD3A3&utm_source=rss&utm_medium=rss)
-- <code>2026-10-01</code> · [Exploit for CVE-2026-104286](https://sploitus.com/exploit?id=2063CE4C-3D01-55B4-83F0-37EB684291A0&utm_source=rss&utm_medium=rss)
-- <code>2026-10-01</code> · [yamcs-reconfigure-template-injection-poc exploit](https://sploitus.com/exploit?id=1A7D055A-3314-5E5B-AA21-3CC207B3CE35&utm_source=rss&utm_medium=rss)
-- <code>2026-10-01</code> · [advanced-port-scanner exploit](https://sploitus.com/exploit?id=CCFF1484-CA4B-5A45-A413-E839D689BA57&utm_source=rss&utm_medium=rss)
-- <code>2026-10-01</code> · [Relapse-Exploit](https://sploitus.com/exploit?id=07E777B3-2C15-57FF-B2C7-285427B945B3&utm_source=rss&utm_medium=rss)
+- <code>2026-10-03</code> · [Exploit for CVE-2026-105030](https://sploitus.com/exploit?id=4891F60F-CA71-5B91-98EE-64FBB89B6B08&utm_source=rss&utm_medium=rss)
+- <code>2026-10-03</code> · [s24-e1q-root exploit](https://sploitus.com/exploit?id=3399092D-B803-5C39-A3E3-DB5C784B8C1B&utm_source=rss&utm_medium=rss)
+- <code>2026-10-02</code> · [Exploit for CVE-2026-102282](https://sploitus.com/exploit?id=23482FFE-B5C9-5736-A66B-ABBDCFF4AFA5&utm_source=rss&utm_medium=rss)
+- <code>2026-10-02</code> · [Exploit for CVE-2026-15989](https://sploitus.com/exploit?id=9F5189C5-CE21-56B0-BC4D-0E6C71AE4BEA&utm_source=rss&utm_medium=rss)
+- <code>2026-10-02</code> · [relapse exploit](https://sploitus.com/exploit?id=6988CA7C-4653-5F42-8E60-DAB4E57F6B60&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-10-02</code> · [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
 - <code>2026-09-25</code> · [Don't let TEEs break your MPC](https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/)
 - <code>2026-09-21</code> · [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
-- <code>2026-09-18</code> · [Auditing in the age of (good enough) AI](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
 <!-- DYNAMIC:END -->
 
 ---
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-09-25 → 2026-10-02, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-09-26 → 2026-10-03, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
