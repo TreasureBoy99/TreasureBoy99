@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-10-16) — no description
-    ├── ThreatVision (Python, pushed 2026-10-16) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-10-16) — no description
+    ├── VulnWatchDog (Python, pushed 2026-10-17) — no description
+    ├── ThreatVision (Python, pushed 2026-10-17) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-10-17) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-555-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-463-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-16 02:29 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-17 02:22 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-10-16</code> · [wesng exploit](https://sploitus.com/exploit?id=KITPLOIT:6269408450657572101&utm_source=rss&utm_medium=rss)
-- <code>2026-10-16</code> · [Exploit for Missing Release of Memory after Effective Lifetime in L…](https://sploitus.com/exploit?id=E3F9345A-694B-58E6-B380-627A4019BE9A&utm_source=rss&utm_medium=rss)
-- <code>2026-10-16</code> · [CVE-2020-0796 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-T13NN3S-CVE-2020-0796&utm_source=rss&utm_medium=rss)
-- <code>2026-10-16</code> · [google-dorks-bug-bounty exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TAKSEC-GOOGLE-DORKS-BUG-BOUNTY&utm_source=rss&utm_medium=rss)
-- <code>2026-10-15</code> · [CVE-2018-20250-WINRAR-ACE-GUI exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARKANGEL-DEV-CVE-2018-20250-WINRAR-ACE-GUI&utm_source=rss&utm_medium=rss)
+- <code>2026-12-29</code> · [GNUnet P2P Framework 0.26.2 exploit](https://sploitus.com/exploit?id=PACKETSTORMNEWS:213585&utm_source=rss&utm_medium=rss)
+- <code>2026-10-17</code> · [Vulnerability-POC-Dev exploit](https://sploitus.com/exploit?id=DAACF07C-0A50-5C10-AA66-8B8B6694E2E9&utm_source=rss&utm_medium=rss)
+- <code>2026-10-16</code> · [CVE-2018-14667 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZEROTO01-CVE-2018-14667&utm_source=rss&utm_medium=rss)
+- <code>2026-10-16</code> · [xwiki__xwiki-commons_CVE-2023-31126_14-10-3 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHOUCHENG3-XWIKI__XWIKI-COMMONS_CVE-2023-31126_14-10-3&utm_source=rss&utm_medium=rss)
+- <code>2026-10-16</code> · [Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-34ZY-MICROSOFT-OFFICE-WORD-MSHTML-REMOTE-CODE-EXECUTION-EXPLOIT&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-09 → 2026-10-16, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-10-10 → 2026-10-17, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
