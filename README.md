@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-10-18) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-10-18) — no description
-    └── github_cve_monitor (Python, pushed 2026-10-18) — 无discord推送
+    ├── ThreatVision (Python, pushed 2026-10-19) — no description
+    ├── All-Defense-Tool (Python, pushed 2026-10-19) — Restored from anonymous99-Rise
+    └── ai-daily-newsletter (Python, pushed 2026-10-19) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-104-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-562-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-18 02:22 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-19 02:36 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-29</code> · [GNUnet P2P Framework 0.26.2 exploit](https://sploitus.com/exploit?id=PACKETSTORMNEWS:213585&utm_source=rss&utm_medium=rss)
-- <code>2026-10-18</code> · [walletool exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S4LARIE-WALLETOOL&utm_source=rss&utm_medium=rss)
-- <code>2026-10-18</code> · [Log4j exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ISURUWA-LOG4J&utm_source=rss&utm_medium=rss)
-- <code>2026-10-18</code> · [wpbf exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEJANLEVAJA-WPBF&utm_source=rss&utm_medium=rss)
-- <code>2026-10-18</code> · [CVE-2017-0564-ION-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GUOYGANG-CVE-2017-0564-ION-POC&utm_source=rss&utm_medium=rss)
+- <code>2026-10-19</code> · [ExploitWebmin](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GB21OC-EXPLOITWEBMIN&utm_source=rss&utm_medium=rss)
+- <code>2026-10-19</code> · [DisableSMBCompression exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TECHNION-DISABLESMBCOMPRESSION&utm_source=rss&utm_medium=rss)
+- <code>2026-10-19</code> · [Exploit for Path Traversal in Jenkins](https://sploitus.com/exploit?id=0819E90A-4D7B-51E1-961F-F510DCB99A60&utm_source=rss&utm_medium=rss)
+- <code>2026-10-18</code> · [MCPDebugger exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FATMIKE-GH-MCPDEBUGGER&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-11 → 2026-10-18, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-10-12 → 2026-10-19, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
