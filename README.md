@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-10-20) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-10-20) — no description
-    └── github_cve_monitor (Python, pushed 2026-10-20) — 无discord推送
+    ├── ThreatVision (Python, pushed 2026-10-21) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-10-21) — no description
+    └── github_cve_monitor (Python, pushed 2026-10-21) — 无discord推送
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-597-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-4-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-1963-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-20 02:49 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-21 02:43 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-29</code> · [GNUnet P2P Framework 0.26.2 exploit](https://sploitus.com/exploit?id=PACKETSTORMNEWS:213585&utm_source=rss&utm_medium=rss)
-- <code>2026-10-20</code> · [vulnclaw exploit](https://sploitus.com/exploit?id=1ABB4DEC-D69E-5329-BCB3-03944D77978B&utm_source=rss&utm_medium=rss)
-- <code>2026-10-20</code> · [strix exploit](https://sploitus.com/exploit?id=8DF2E55A-7686-52DB-A229-CE7A29AC856D&utm_source=rss&utm_medium=rss)
-- <code>2026-10-20</code> · [CVE-2026-43284-Android-Domain-Transition exploit](https://sploitus.com/exploit?id=B4C4E399-EC45-5C4E-AE6E-FC0D496ACF71&utm_source=rss&utm_medium=rss)
-- <code>2026-10-20</code> · [varmor exploit](https://sploitus.com/exploit?id=4A622F96-EFD0-5FDD-86EE-8DF364C370FB&utm_source=rss&utm_medium=rss)
+- <code>2026-10-21</code> · [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
+- <code>2026-10-21</code> · [RDPassSpray exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XFREED0M-RDPASSSPRAY&utm_source=rss&utm_medium=rss)
+- <code>2026-10-21</code> · [s3sec exploit](https://sploitus.com/exploit?id=KITPLOIT:1990251708154152784&utm_source=rss&utm_medium=rss)
+- <code>2026-10-21</code> · [CVE-2024-24919-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0NIN0HANZ0-CVE-2024-24919-POC&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-13 → 2026-10-20, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-10-14 → 2026-10-21, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
