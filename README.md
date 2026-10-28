@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-10-27) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-10-27) — no description
-    └── github_cve_monitor (Python, pushed 2026-10-27) — 无discord推送
+    ├── VulnWatchDog (Python, pushed 2026-10-28) — no description
+    ├── ThreatVision (Python, pushed 2026-10-28) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-10-28) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-799-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-649-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-27 03:06 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-28 03:19 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-29</code> · [GNUnet P2P Framework 0.26.2 exploit](https://sploitus.com/exploit?id=PACKETSTORMNEWS:213585&utm_source=rss&utm_medium=rss)
-- <code>2026-10-27</code> · [FastJson exploit](https://sploitus.com/exploit?id=87147C63-531D-5B30-97BE-8DD74806CF2B&utm_source=rss&utm_medium=rss)
-- <code>2026-10-27</code> · [Exploit for CVE-2025-27740](https://sploitus.com/exploit?id=46102541-3DBA-5E97-98AF-051BA8B1ECD6&utm_source=rss&utm_medium=rss)
-- <code>2026-10-27</code> · [ciberaplicada-uc2 exploit](https://sploitus.com/exploit?id=57D7B319-69D6-53B0-99E2-3DD10BA1D629&utm_source=rss&utm_medium=rss)
-- <code>2026-10-27</code> · [mini-siem exploit](https://sploitus.com/exploit?id=B2C18AF2-1B3C-57B6-AC97-1FC1F256DB87&utm_source=rss&utm_medium=rss)
+- <code>2026-10-28</code> · [sessionprobe exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DUB-FLOW-SESSIONPROBE&utm_source=rss&utm_medium=rss)
+- <code>2026-10-28</code> · [php2shell-study exploit](https://sploitus.com/exploit?id=5F25D87A-7F83-5438-B09D-F796A79B998A&utm_source=rss&utm_medium=rss)
+- <code>2026-10-28</code> · [Exploit for Race Condition in Sonicwall Sma_6200_Firmware](https://sploitus.com/exploit?id=A140AB08-7862-5F21-A6ED-B8C042E5E81D&utm_source=rss&utm_medium=rss)
+- <code>2026-10-28</code> · [CVE-2025-52289 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MADHAV-BHARDWAJ-CVE-2025-52289&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-20 → 2026-10-27, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-10-21 → 2026-10-28, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
