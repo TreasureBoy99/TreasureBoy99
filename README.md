@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-10-29) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-10-29) — no description
-    └── VulnWatchDog (Python, pushed 2026-10-29) — no description
+    ├── VulnWatchDog (Python, pushed 2026-10-30) — no description
+    ├── ThreatVision (Python, pushed 2026-10-30) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-10-30) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-767-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-567-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-29 03:43 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-10-30 03:46 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-29</code> · [GNUnet P2P Framework 0.26.2 exploit](https://sploitus.com/exploit?id=PACKETSTORMNEWS:213585&utm_source=rss&utm_medium=rss)
-- <code>2026-10-29</code> · [nginx-rift-check exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYNEPMYX-NGINX-RIFT-CHECK&utm_source=rss&utm_medium=rss)
-- <code>2026-10-29</code> · [CVE-2026-30225-OliveTin-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HACKERKING24-CVE-2026-30225-OLIVETIN-RCE&utm_source=rss&utm_medium=rss)
-- <code>2026-10-29</code> · [mRemoteNG exploit](https://sploitus.com/exploit?id=40065BF7-101E-54E9-9460-3889CD8E55C3&utm_source=rss&utm_medium=rss)
-- <code>2026-10-29</code> · [CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ESTEBANZARATE-CVE-2023-30258-MAGNUS-BILLING-V7-COMMAND-INJECTION-POC&utm_source=rss&utm_medium=rss)
+- <code>2026-10-30</code> · [Log4Shell-Attack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PINARALTINOK-LOG4SHELL-ATTACK&utm_source=rss&utm_medium=rss)
+- <code>2026-10-30</code> · [CVE-2025-4611-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X6VRN-CVE-2025-4611-POC&utm_source=rss&utm_medium=rss)
+- <code>2026-10-30</code> · [CVE-2025-14174-Poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SATIRUSH-CVE-2025-14174-POC&utm_source=rss&utm_medium=rss)
+- <code>2026-10-30</code> · [CVE-2025-65670 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RIVEK619-CVE-2025-65670&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-22 → 2026-10-29, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ no wakatime data in last 7 days (2026-10-23 → 2026-10-30, tz=Asia/Shanghai)</sub>
 <!-- DYNAMIC:END -->
 
 
