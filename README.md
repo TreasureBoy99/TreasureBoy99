@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-01) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-01) — no description
-    └── CVE (Python, pushed 2026-11-01) — no description
+    ├── VulnWatchDog (Python, pushed 2026-11-02) — no description
+    ├── ThreatVision (Python, pushed 2026-11-02) — no description
+    └── All-Defense-Tool (Python, pushed 2026-11-02) — Restored from anonymous99-Rise
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-123-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-164-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-01 03:35 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-02 03:41 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-11-01</code> · [tryhackme-monikerlink-writeup exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OMARMAHMOUD1024-TRYHACKME-MONIKERLINK-WRITEUP&utm_source=rss&utm_medium=rss)
-- <code>2026-11-01</code> · [AzureC2Relay exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FLANGVIK-AZUREC2RELAY&utm_source=rss&utm_medium=rss)
-- <code>2026-11-01</code> · [Exploit for Deserialization of Untrusted Data in Rockwellautomation…](https://sploitus.com/exploit?id=FB432986-F934-5576-B3E7-8CE48A411A95&utm_source=rss&utm_medium=rss)
-- <code>2026-11-01</code> · [CVE-2023-50072 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AHRIXIA-CVE-2023-50072&utm_source=rss&utm_medium=rss)
-- <code>2026-11-01</code> · [CVE-2026-46817 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XBLACKASH-CVE-2026-46817&utm_source=rss&utm_medium=rss)
+- <code>2026-11-02</code> · [nxc-vulnscan exploit](https://sploitus.com/exploit?id=92DFBF9F-09CA-5282-B4AA-933E9593DB1C&utm_source=rss&utm_medium=rss)
+- <code>2026-11-02</code> · [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=27F92674-EBD5-513F-9A0D-D89326485CFA&utm_source=rss&utm_medium=rss)
+- <code>2026-11-02</code> · [cypheroth exploit](https://sploitus.com/exploit?id=KITPLOIT:452301745121929159&utm_source=rss&utm_medium=rss)
+- <code>2026-11-01</code> · [Sharperner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANIQFAKHRUL-SHARPERNER&utm_source=rss&utm_medium=rss)
+- <code>2026-11-01</code> · [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -95,7 +95,7 @@
 ## wakatime
 
 <!-- DYNAMIC:START -->
-<sub align="center">⏳ no wakatime data in last 7 days (2026-10-25 → 2026-11-01, tz=Asia/Shanghai)</sub>
+<sub align="center">⏳ wakatime not configured · set <code>WAKATIME_API_KEY</code> secret to enable · see <a href="https://wakatime.com/settings/api-key">wakatime.com/settings/api-key</a></sub>
 <!-- DYNAMIC:END -->
 
 
