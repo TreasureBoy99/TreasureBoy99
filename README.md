@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-03) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-03) — no description
-    └── mpvulnHub (Python, pushed 2026-11-03) — Restored from anonymous99-Rise
+    ├── VulnWatchDog (Python, pushed 2026-11-04) — no description
+    ├── ThreatVision (Python, pushed 2026-11-04) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-11-04) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-402-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-801-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-03 04:46 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-04 04:10 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-11-03</code> · [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=0123D75C-CD62-5200-9C76-02638EA04FCE&utm_source=rss&utm_medium=rss)
-- <code>2026-11-03</code> · [CVE-2026-120831 exploit](https://sploitus.com/exploit?id=CVE-2026-120831&utm_source=rss&utm_medium=rss)
-- <code>2026-11-03</code> · [CVE-2026-76955 exploit](https://sploitus.com/exploit?id=CVE-2026-76955&utm_source=rss&utm_medium=rss)
-- <code>2026-11-03</code> · [CVE-2026-107441 exploit](https://sploitus.com/exploit?id=CVE-2026-107441&utm_source=rss&utm_medium=rss)
-- <code>2026-11-03</code> · [blackout-public exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CLARK-PROG-BLACKOUT-PUBLIC&utm_source=rss&utm_medium=rss)
+- <code>2026-11-04</code> · [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
+- <code>2026-11-04</code> · [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=2FAE86AF-8A06-588A-A548-A879C4BD59FC&utm_source=rss&utm_medium=rss)
+- <code>2026-11-04</code> · [Exploit for CVE-2026-92183](https://sploitus.com/exploit?id=525E4E24-9B33-5F41-9E5E-8CCCF5D2E784&utm_source=rss&utm_medium=rss)
+- <code>2026-11-04</code> · [Exploit for Missing Authentication for Critical Function in Corewea…](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
+- <code>2026-11-04</code> · [remic exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KNQYF263-REMIC&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-11-03</code> · [The cryptography behind electronic voting (and why paper ballots ar…](https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/)
 - <code>2026-11-02</code> · [Backporting security fixes at scale with Codex](https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/)
 - <code>2026-10-21</code> · [Your AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
-- <code>2026-10-14</code> · [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
 <!-- DYNAMIC:END -->
 
 ---
