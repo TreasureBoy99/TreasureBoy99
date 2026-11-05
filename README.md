@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-11-04) — no description
-    ├── ThreatVision (Python, pushed 2026-11-04) — no description
-    └── ai-daily-newsletter (Python, pushed 2026-11-04) — no description
+    ├── ThreatVision (Python, pushed 2026-11-05) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-11-05) — no description
+    └── CVE (Python, pushed 2026-11-05) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-5-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-801-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-423-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-04 04:10 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-05 04:29 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-11-04</code> · [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
-- <code>2026-11-04</code> · [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=2FAE86AF-8A06-588A-A548-A879C4BD59FC&utm_source=rss&utm_medium=rss)
-- <code>2026-11-04</code> · [Exploit for CVE-2026-92183](https://sploitus.com/exploit?id=525E4E24-9B33-5F41-9E5E-8CCCF5D2E784&utm_source=rss&utm_medium=rss)
-- <code>2026-11-04</code> · [Exploit for Missing Authentication for Critical Function in Corewea…](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
-- <code>2026-11-04</code> · [remic exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KNQYF263-REMIC&utm_source=rss&utm_medium=rss)
+- <code>2026-11-05</code> · [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=654FB04E-82EE-5183-AC89-EB6B2BEC9636&utm_source=rss&utm_medium=rss)
+- <code>2026-11-05</code> · [sisu exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEMONTE-SISU&utm_source=rss&utm_medium=rss)
+- <code>2026-11-05</code> · [gtfocli exploit](https://sploitus.com/exploit?id=KITPLOIT:3536309726077760032&utm_source=rss&utm_medium=rss)
+- <code>2026-11-05</code> · [Exploit for CVE-2026-111943](https://sploitus.com/exploit?id=BBD230AF-B94E-517E-91BD-B4D8E7EDB150&utm_source=rss&utm_medium=rss)
+- <code>2026-11-05</code> · [eternal_check exploit](https://sploitus.com/exploit?id=KITPLOIT:7763815889924177635&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
