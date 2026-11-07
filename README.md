@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-06) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-06) — no description
-    └── CVE (Python, pushed 2026-11-06) — no description
+    ├── ThreatVision (Python, pushed 2026-11-07) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-11-07) — no description
+    └── CVE (Python, pushed 2026-11-07) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-10-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-610-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-484-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-06 04:28 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-07 03:55 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-11-06</code> · [Exploit for CVE-2026-123158](https://sploitus.com/exploit?id=C7BEBF2B-9C42-5FA8-80E1-3D371B3C964F&utm_source=rss&utm_medium=rss)
-- <code>2026-11-06</code> · [Exploit for CVE-2026-116214](https://sploitus.com/exploit?id=9E64B1AD-0E1A-563F-9D46-8EABA06936E2&utm_source=rss&utm_medium=rss)
-- <code>2026-11-06</code> · [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=FFC7F60F-3CE7-5F32-8494-BCB0A04AD2FB&utm_source=rss&utm_medium=rss)
-- <code>2026-11-06</code> · [CVE-2026-20127 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XBLACKASH-CVE-2026-20127&utm_source=rss&utm_medium=rss)
-- <code>2026-11-06</code> · [Exploit for Deserialization of Untrusted Data in Openidentityplatfo…](https://sploitus.com/exploit?id=5B99B68F-4E72-5873-8249-6C05E5D19D2C&utm_source=rss&utm_medium=rss)
+- <code>2026-11-07</code> · [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
+- <code>2026-11-07</code> · [statecraftcyber exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PTKTHG-STATECRAFTCYBER&utm_source=rss&utm_medium=rss)
+- <code>2026-11-07</code> · [xss_vulnerability_challenges exploit](https://sploitus.com/exploit?id=KITPLOIT:9123497423407175862&utm_source=rss&utm_medium=rss)
+- <code>2026-11-07</code> · [Exploit for CVE-2026-123014](https://sploitus.com/exploit?id=F116D130-CE12-5C6D-AC09-899A47FEF251&utm_source=rss&utm_medium=rss)
+- <code>2026-11-06</code> · [PGP-Tools exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AM-I-BEING-PWNED-PGP-TOOLS&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
@@ -85,9 +85,9 @@
 
 #### ▸ [trailofbits](https://blog.trailofbits.com/feed/)
 
+- <code>2026-11-06</code> · [After Binance, check what your signing systems can approve](https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/)
 - <code>2026-11-03</code> · [The cryptography behind electronic voting (and why paper ballots ar…](https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/)
 - <code>2026-11-02</code> · [Backporting security fixes at scale with Codex](https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/)
-- <code>2026-10-21</code> · [Your AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
 <!-- DYNAMIC:END -->
 
 ---
