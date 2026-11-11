@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-10) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-10) — no description
-    └── CVE (Python, pushed 2026-11-10) — no description
+    ├── ThreatVision (Python, pushed 2026-11-11) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-11-11) — no description
+    └── CVE (Python, pushed 2026-11-11) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-589-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-2029-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-10 05:27 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-11 03:57 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-11-09</code> · [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
-- <code>2026-11-09</code> · [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
-- <code>2026-11-09</code> · [Burst Statistics CVE-2026-8181 MainWP auth bypass check exploit](https://sploitus.com/exploit?id=KS:AUXILIARY-ADMIN-HTTP-BURST_STATISTICS_CVE_2026_8181_AUTH_BYPASS&utm_source=rss&utm_medium=rss)
-- <code>2026-11-09</code> · [Newfold CVE-2026-80099 admin REST impersonation exploit](https://sploitus.com/exploit?id=KS:AUXILIARY-ADMIN-HTTP-NEWFOLD_CVE_2026_80099_ADMIN_REST&utm_source=rss&utm_medium=rss)
-- <code>2026-11-09</code> · [CF7 drag-drop CVE-2026-5718 upload exploit](https://sploitus.com/exploit?id=KS:EXPLOITS-MULTI-HTTP-CF7_DND_UPLOAD_CVE_2026_5718_RCE&utm_source=rss&utm_medium=rss)
+- <code>2026-12-05</code> · [May 2026 Security Advisory Ivanti Virtual Traffic Manager (vTM) (CV…](https://sploitus.com/exploit?id=IVANTI:80F01AAF33A0C6687CF93881EEFBC8CF&utm_source=rss&utm_medium=rss)
+- <code>2026-12-05</code> · [May 2026 Security Advisory Ivanti Secure Access Client (CVE-2026-74…](https://sploitus.com/exploit?id=IVANTI:162C3488AD66213A68B5A49ACF39121E&utm_source=rss&utm_medium=rss)
+- <code>2026-12-05</code> · [Security Advisory - Ivanti Xtraction (CVE-2026-8043) exploit](https://sploitus.com/exploit?id=IVANTI:A4908D8F65F5C1ADD74A86771B38F877&utm_source=rss&utm_medium=rss)
+- <code>2026-12-05</code> · [Security Advisory Ivanti Endpoint Manager (EPM) May 2026 exploit](https://sploitus.com/exploit?id=IVANTI:39F643D7379EB957A047795166410B36&utm_source=rss&utm_medium=rss)
+- <code>2026-11-11</code> · [Exploit for Product UI does not Warn User of Unsafe Actions in Micr…](https://sploitus.com/exploit?id=DEF309F1-0F16-5502-B103-07BB2180DF3F&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
