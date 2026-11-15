@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-14) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-14) — no description
-    └── CVE (Python, pushed 2026-11-14) — no description
+    ├── VulnWatchDog (Python, pushed 2026-11-15) — no description
+    ├── ThreatVision (Python, pushed 2026-11-15) — no description
+    └── ai-daily-newsletter (Python, pushed 2026-11-15) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-733-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-76-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-14 04:19 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-15 04:03 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -71,11 +71,11 @@
 <!-- DYNAMIC:START -->
 #### ▸ Sploitus (exploits & CVEs)
 
-- <code>2026-12-05</code> · [May 2026 Security Advisory Ivanti Virtual Traffic Manager (vTM) (CV…](https://sploitus.com/exploit?id=IVANTI:80F01AAF33A0C6687CF93881EEFBC8CF&utm_source=rss&utm_medium=rss)
 - <code>2026-12-05</code> · [Security Advisory Ivanti Endpoint Manager (EPM) May 2026 exploit](https://sploitus.com/exploit?id=IVANTI:39F643D7379EB957A047795166410B36&utm_source=rss&utm_medium=rss)
-- <code>2026-11-14</code> · [mcpjaminspector-unauth-rce exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FCKOO-MCPJAMINSPECTOR-UNAUTH-RCE&utm_source=rss&utm_medium=rss)
-- <code>2026-11-14</code> · [inputcontrol exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SPOTLIGHTISHERE-INPUTCONTROL&utm_source=rss&utm_medium=rss)
-- <code>2026-11-14</code> · [CVE-2025-2304-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ASKIESEC-CVE-2025-2304-POC&utm_source=rss&utm_medium=rss)
+- <code>2026-11-15</code> · [mibox3s-utgard-lpe exploit](https://sploitus.com/exploit?id=1D5F0B02-0E8C-546E-8C97-86C70D21B044&utm_source=rss&utm_medium=rss)
+- <code>2026-11-15</code> · [cve-2010-3333 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WHITEHAT001-CVE-2010-3333&utm_source=rss&utm_medium=rss)
+- <code>2026-11-15</code> · [Exploit for CVE-2026-126909](https://sploitus.com/exploit?id=BBB08203-E68C-55D1-AE45-6F204DFAB2DE&utm_source=rss&utm_medium=rss)
+- <code>2026-11-15</code> · [Nginx-Remote-Integer-Overflow-Vulnerability exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MO3ZJ-NGINX-REMOTE-INTEGER-OVERFLOW-VULNERABILITY&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
