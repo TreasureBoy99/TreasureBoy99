@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── VulnWatchDog (Python, pushed 2026-11-16) — no description
-    ├── ThreatVision (Python, pushed 2026-11-16) — no description
-    └── All-Defense-Tool (Python, pushed 2026-11-16) — Restored from anonymous99-Rise
+    ├── ThreatVision (Python, pushed 2026-11-17) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-11-17) — no description
+    └── VulnWatchDog (Python, pushed 2026-11-17) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-109-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-439-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-16 04:03 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-17 05:53 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-05</code> · [Security Advisory Ivanti Endpoint Manager (EPM) May 2026 exploit](https://sploitus.com/exploit?id=IVANTI:39F643D7379EB957A047795166410B36&utm_source=rss&utm_medium=rss)
-- <code>2026-11-16</code> · [CVE-2023-36146 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LEONARDOBG-CVE-2023-36146&utm_source=rss&utm_medium=rss)
-- <code>2026-11-16</code> · [CVE-2019-0708 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-303SEC-CVE-2019-0708&utm_source=rss&utm_medium=rss)
-- <code>2026-11-16</code> · [CVE-2018-6574 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SOLOVVWAY-CVE-2018-6574&utm_source=rss&utm_medium=rss)
-- <code>2026-11-16</code> · [CVE-2016-9079 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DANGOKYO-CVE-2016-9079&utm_source=rss&utm_medium=rss)
+- <code>2026-11-17</code> · [Exploit for CVE-2026-90436](https://sploitus.com/exploit?id=E28D8630-4C6D-593E-A939-742BD67C2533&utm_source=rss&utm_medium=rss)
+- <code>2026-11-17</code> · [Exploit for CVE-2026-90436](https://sploitus.com/exploit?id=D8D66EA3-C0BE-5B77-B4A0-10CC560E4F6B&utm_source=rss&utm_medium=rss)
+- <code>2026-11-17</code> · [Exploit for Exposure of Sensitive Information to an Unauthorized Ac…](https://sploitus.com/exploit?id=AF31DCC1-3224-5A95-87F5-74AACD7FED91&utm_source=rss&utm_medium=rss)
+- <code>2026-11-17</code> · [Exploit for Incorrect Implementation of Authentication Algorithm in…](https://sploitus.com/exploit?id=D326FDF3-A61D-5B00-B832-2D369A0CAA1B&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
