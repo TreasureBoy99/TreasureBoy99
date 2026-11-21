@@ -37,9 +37,9 @@
 <!-- DYNAMIC:START -->
 ```text
 [+] recent focus
-    ├── ThreatVision (Python, pushed 2026-11-20) — no description
-    ├── ai-daily-newsletter (Python, pushed 2026-11-20) — no description
-    └── CVE (Python, pushed 2026-11-20) — no description
+    ├── ThreatVision (Python, pushed 2026-11-21) — no description
+    ├── ai-daily-newsletter (Python, pushed 2026-11-21) — no description
+    └── CVE (Python, pushed 2026-11-21) — no description
 
 [+] currently learning
     ├── langgraph deep dive — durable execution semantics
@@ -55,9 +55,9 @@
 <!-- DYNAMIC:START -->
 <div align="center">
 
-![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-6-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-1049-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
+![followers](https://img.shields.io/badge/followers-11-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![following](https://img.shields.io/badge/following-26-FF6B35?style=for-the-badge&logo=github&logoColor=white) ![public_repos](https://img.shields.io/badge/repos-176-3178C6?style=for-the-badge&logo=github&logoColor=white) ![total_stars](https://img.shields.io/badge/stars-7-DC143C?style=for-the-badge&logo=github&logoColor=white) ![cve_24h](https://img.shields.io/badge/CVE_24h-738-D93B3B?style=for-the-badge&logo=commonvulnerabilitiesandexposures&logoColor=white)
 
-<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-20 05:03 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
+<sub>🤖 auto-refreshed by <code>profile-pulse.yml</code> · last pulse <code>2026-11-21 04:58 UTC</code> · <a href="commits/main/.github/workflows/profile-pulse.yml">history</a></sub>
 
 </div>
 <!-- DYNAMIC:END -->
@@ -72,10 +72,10 @@
 #### ▸ Sploitus (exploits & CVEs)
 
 - <code>2026-12-05</code> · [Security Advisory Ivanti Endpoint Manager (EPM) May 2026 exploit](https://sploitus.com/exploit?id=IVANTI:39F643D7379EB957A047795166410B36&utm_source=rss&utm_medium=rss)
-- <code>2026-11-20</code> · [Exploit for CVE-2026-129448](https://sploitus.com/exploit?id=BB0E1DC0-D82C-5FC2-8274-8B566E9FF6EE&utm_source=rss&utm_medium=rss)
-- <code>2026-11-20</code> · [Exploit for CVE-2026-132749](https://sploitus.com/exploit?id=EDDB8FEB-0598-5742-A312-393E22A03633&utm_source=rss&utm_medium=rss)
-- <code>2026-11-20</code> · [Exploit for CVE-2026-132748](https://sploitus.com/exploit?id=7BC0A70B-1E70-5BA5-B8E4-4384324B472E&utm_source=rss&utm_medium=rss)
-- <code>2026-11-20</code> · [Exploit for Use After Free in Samsung Android](https://sploitus.com/exploit?id=6A15B4A1-2AA7-57CD-B594-7C1F20075D84&utm_source=rss&utm_medium=rss)
+- <code>2026-11-21</code> · [Exploit for CVE-2026-104884](https://sploitus.com/exploit?id=F40613BD-E52D-5CB0-B628-E8005B89921F&utm_source=rss&utm_medium=rss)
+- <code>2026-11-21</code> · [claude-code-security-audit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABHISHEK2512MISHRA-CLAUDE-CODE-SECURITY-AUDIT&utm_source=rss&utm_medium=rss)
+- <code>2026-11-21</code> · [B63-POC-CVE-2026-75650 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BASESIXTYTHREE-B63-POC-CVE-2026-75650&utm_source=rss&utm_medium=rss)
+- <code>2026-11-21</code> · [CVE-2025-40554 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SKYNOXK-CVE-2025-40554&utm_source=rss&utm_medium=rss)
 
 #### ▸ [steipete](https://steipete.me/rss.xml)
 
